@@ -1,5 +1,7 @@
 # VERY SECRET USER INFO #
 
+# https://www.reddit.com/prefs/apps #
+
 
 client_id = "123"
 
