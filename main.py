@@ -13,21 +13,24 @@ start = time.time()
 print(spacer)
 subreddit = reddit.subreddit("wallstreetbets")
 
-print("Accessing: " + subreddit.display_name)
+print("Accessing: " + subreddit.display_name.upper())
 
 print(spacer)
 
-print("Getting hot comments from " + subreddit.display_name)
+print("Getting current hot posts / comments from " +
+      subreddit.display_name.upper())
 print(spacer)
-masterSET = set()
+masterSET = []
 
 for submission in subreddit.hot(limit=10):
-    masterSET.add(submission.title.lower())
-    submission.comments.replace_more(limit=None)
+    for sub in submission.title.lower().split(" "):
+        masterSET.append(sub)
+    submission.comments.replace_more(limit=10)
     for comment in submission.comments.list():
-        masterSET.add(comment.body.lower())
+        for sub2 in comment.body.lower().split(" "):
+            masterSET.append(sub2)
 
-print("Done")
+print("Analyzing")
 print(spacer)
 
 autistCount = sum('autist' in s for s in masterSET)
@@ -46,4 +49,4 @@ else:
 
 print(spacer)
 end = time.time()
-print("Function Time: " + end - start)
+print("Run time: " + str(round(end - start, 2))+" seconds")
