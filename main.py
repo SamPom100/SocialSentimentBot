@@ -39,15 +39,15 @@ print(spacer)
 autistCount = sum('autist' in s for s in masterSET)
 callCount = sum('call' in s for s in masterSET)
 putCount = sum('put' in s for s in masterSET)
-print("Autist Count" + str(autistCount))
-print("Call Count" + str(callCount))
-print("Put Count" + str(putCount))
+print("Autist Count: " + str(autistCount))
+print("Call Count: " + str(callCount))
+print("Put Count: " + str(putCount))
 
 print(spacer)
 if(callCount > putCount):
-    print("BULLISH by " + str(callCount / (callCount+putCount))+"%")
+    print("BULLISH by " + str(100*(callCount / (callCount+putCount)))+"%")
 else:
-    print("BEARISH by " + str(putCount / (callCount+putCount))+"%")
+    print("BEARISH by " + str(100*(putCount / (callCount+putCount)))+"%")
 # print(submission.score)  # Output: the submission's score
 # print(submission.id)     # Output: the submission's ID
 # print(submission.url)    # Output: the URL the submission points to
