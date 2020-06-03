@@ -104,7 +104,7 @@ dateformat = date.today().strftime("%B %d, %Y")
 ax = sb.barplot(x='Ticker', y='Frequency', data=mainFrame)
 plt.title("WSB DAILY: THE MOST POPULAR TICKERS ON R/WSB TODAY", fontsize=20)
 annotation = ('--------- Summary ---------\n'+sentiment + '\nCalls: '+str(callCount)+'\nPuts: '+str(putCount)+'\nAutist Count: ' +
-              str(autistCount)+'\nAnalyzed '+str(commentCounter)+' comments'+'\nToday is: '+dateformat)
+              str(autistCount)+'\nAnalyzed '+str(commentCounter)+' comments'+'\nToday is: '+dateformat+'\n---------------------------')
 
 plt.text(0.9, 0.5, annotation,
          horizontalalignment='center',
