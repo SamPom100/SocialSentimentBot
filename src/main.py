@@ -1,3 +1,4 @@
+from datetime import date
 from collections import Counter
 import praw
 import secret
@@ -22,18 +23,18 @@ print("Accessing: " + subreddit.display_name.upper())
 
 print(spacer)
 
-print("Getting current hot posts / comments from " +
+print("Getting posts / comments from " +
       subreddit.display_name.upper())
 print(spacer)
 masterSET = []
 
 commentCounter = 0
 
-for submission in subreddit.hot(limit=30):
+for submission in subreddit.hot(limit=20):  # .hot, .new
     for sub in submission.title.upper().split(" "):
         masterSET.append(sub)
         commentCounter += 1
-    submission.comments.replace_more(limit=30)
+    submission.comments.replace_more(limit=20)
     for comment in submission.comments.list():
         for sub2 in comment.body.upper().split(" "):
             masterSET.append(sub2)
@@ -70,7 +71,7 @@ colors = ['springgreen', 'lightcoral']
 plt.figure(0)
 plt.pie(slices, labels=names, colors=colors, autopct='%1.1f%%',
         shadow=True, startangle=90, textprops={'fontsize': 17, 'weight': 'bold'})
-plt.title('Calls or Puts')
+#plt.title('Calls or Puts')
 
 
 print(spacer)
@@ -85,7 +86,7 @@ r_item = ['A', 'ON', 'IT', 'FOR', 'AT', 'ARE', 'BE', 'ALL', 'SO',
           'RUN', 'VERY', 'PLAY', 'DD', 'POST', 'ELSE', 'LOVE', 'TELL', 'BEST', 'LIFE',
           'HOPE', 'TWO', 'NICE', 'BIT', 'MAN', 'TRUE', 'FUN', 'LOW', 'TECH', 'CAR', 'STAY',
           'EOD', 'JOB', 'FLAT', 'OLD', 'RTX', 'HOME', 'OW', 'JOE', 'BEAT', 'WOW', 'X', 'ATH',
-          'SAVE', 'EAT', 'HUGE', 'PER', 'LIVE', 'CARE', 'RIOT', 'PEAK', 'TURN', 'PLUS', 'HEAR']
+          'SAVE', 'EAT', 'HUGE', 'PER', 'LIVE', 'CARE', 'PEAK', 'TURN', 'PLUS', 'HEAR', 'GAIN', 'BRO', 'RH']
 
 
 main_list = [
@@ -99,13 +100,21 @@ mainFrame.columns = ['Ticker', 'Frequency']
 #temp = mainFrame.plot(kind='bar', x='Ticker', y='Frequency')
 
 plt.figure(1)
+dateformat = date.today().strftime("%B %d, %Y")
 ax = sb.barplot(x='Ticker', y='Frequency', data=mainFrame)
-plt.title("What's on WallStreetBet's mind today")
-plt.annotate('--------- Summary ---------\n'+sentiment + '\nCalls: '+str(callCount)+'\nPuts: '+str(putCount)+'\nAutist Count: ' +
-             str(autistCount)+'\nAnalyzed '+str(commentCounter)+' comments', xy=(9, 60))
+plt.title("WSB DAILY: THE MOST POPULAR TICKERS ON R/WSB TODAY", fontsize=20)
+annotation = ('--------- Summary ---------\n'+sentiment + '\nCalls: '+str(callCount)+'\nPuts: '+str(putCount)+'\nAutist Count: ' +
+              str(autistCount)+'\nAnalyzed '+str(commentCounter)+' comments'+'\nToday is: '+dateformat)
+
+plt.text(0.9, 0.5, annotation,
+         horizontalalignment='center',
+         verticalalignment='top',
+         transform=ax.transAxes)
+
+plt.subplots_adjust(left=0.06, bottom=0.07, right=0.97,
+                    top=0.94, wspace=None, hspace=None)
 
 print(spacer)
-
 
 end = time.time()
 print("Run time: " + str(round(end - start, 2))+" seconds")
