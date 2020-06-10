@@ -39,6 +39,8 @@ for submission in subreddit.hot(limit=20):  # .hot, .new
         for sub2 in comment.body.upper().split(" "):
             masterSET.append(sub2)
             commentCounter += 1
+            if commentCounter % 1000 == 0:
+                print("\nComments Analyzed: "+str(commentCounter))
 
 
 print("Analyzing")
