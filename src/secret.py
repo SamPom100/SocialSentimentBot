@@ -7,4 +7,4 @@ client_id = "xyz"
 
 client_secret = "abc"
 
-user_agent = "123"
+user_agent = "MarketTrack"
