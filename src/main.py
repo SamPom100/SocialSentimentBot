@@ -31,11 +31,11 @@ masterSET = []
 
 commentCounter = 0
 
-for submission in subreddit.hot(limit=15):  # .hot, .new
+for submission in subreddit.hot(limit=20):  # .hot, .new
     for sub in submission.title.upper().split(" "):
         masterSET.append(sub)
         commentCounter += 1
-    submission.comments.replace_more(limit=15)
+    submission.comments.replace_more(limit=25)
     for comment in submission.comments.list():
         for sub2 in comment.body.upper().split(" "):
             masterSET.append(sub2)

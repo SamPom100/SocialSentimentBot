@@ -1,5 +1,6 @@
 Symbol|Security Name|Market Category|Test Issue|Financial Status|Round Lot Size|ETF|NextShares
 AACG|ATA Creativity Global - American Depositary Shares, each representing two common shares|G|N|N|100|N|N
+AACQU|Artius Acquisition Inc. - Unit consisting of one ordinary share and one third redeemable warrant|S|N|N|100|N|N
 AAL|American Airlines Group, Inc. - Common Stock|Q|N|N|100|N|N
 AAME|Atlantic American Corporation - Common Stock|G|N|N|100|N|N
 AAOI|Applied Optoelectronics, Inc. - Common Stock|G|N|N|100|N|N
@@ -998,6 +999,7 @@ EDNT|Edison Nation, Inc. - Common Stock|S|N|N|100|N|N
 EDRY|EuroDry Ltd. - Common Shares|S|N|N|100|N|N
 EDSA|Edesa Biotech, Inc. - Common Shares|S|N|N|100|N|N
 EDUC|Educational Development Corporation - Common Stock|G|N|N|100|N|N
+EDUT|Global X Education ETF|G|N|N|100|Y|N
 EEFT|Euronet Worldwide, Inc. - Common Stock|Q|N|N|100|N|N
 EEMA|iShares MSCI Emerging Markets Asia ETF|G|N|N|100|Y|N
 EFAS|Global X MSCI SuperDividend EAFE ETF|G|N|N|100|Y|N
@@ -1127,6 +1129,8 @@ FARM|Farmer Brothers Company - Common Stock|Q|N|N|100|N|N
 FARO|FARO Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 FAST|Fastenal Company - Common Stock|Q|N|N|100|N|N
 FAT|FAT Brands Inc. - Common Stock|S|N|N|100|N|N
+FATBP|FAT Brands Inc. - 8.25% Series B Cumulative Preferred Stock|S|N|N|100|N|N
+FATBW|FAT Brands Inc. - Warrant|S|N|N|100|N|N
 FATE|Fate Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 FB|Facebook, Inc. - Class A Common Stock|Q|N|N|100|N|N
 FBIO|Fortress Biotech, Inc. - Common Stock|S|N|N|100|N|N
@@ -1848,7 +1852,7 @@ KTOV|Kitov Pharma Ltd. - American Depositary Shares|S|N|D|100|N|N
 KTOVW|Kitov Pharma Ltd. - Warrants|S|N|N|100|N|N
 KURA|Kura Oncology, Inc. - Common Stock|Q|N|N|100|N|N
 KVHI|KVH Industries, Inc. - Common Stock|Q|N|N|100|N|N
-KXIN|Kaixin Auto Holdings - Ordinary Share|S|N|H|100|N|N
+KXIN|Kaixin Auto Holdings - Ordinary Share|S|N|D|100|N|N
 KZIA|Kazia Therapeutics Limited - American Depositary Shares|S|N|N|100|N|N
 KZR|Kezar Life Sciences, Inc. - Common Stock|Q|N|N|100|N|N
 LACQ|Leisure Acquisition Corp. - Common Stock|S|N|N|100|N|N
@@ -2190,6 +2194,7 @@ NBTB|NBT Bancorp Inc. - Common Stock|Q|N|N|100|N|N
 NCBS|Nicolet Bankshares Inc. - Common Stock|S|N|N|100|N|N
 NCMI|National CineMedia, Inc. - Common Stock|Q|N|D|100|N|N
 NCNA|NuCana plc - American Depositary Shares|Q|N|N|100|N|N
+NCNO|nCino, Inc. - Common Stock|Q|N|N|100|N|N
 NCSM|NCS Multistage Holdings, Inc. - Common Stock|Q|N|D|100|N|N
 NCTY|The9 Limited - American Depository Shares representing three ordinary shares|S|N|D|100|N|N
 NDAQ|Nasdaq, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2754,7 +2759,7 @@ RING|iShares MSCI Global Gold Miners ETF|G|N|N|100|Y|N
 RIOT|Riot Blockchain, Inc - Common Stock|S|N|N|100|N|N
 RIVE|Riverview Financial Corporation - Common Stock|G|N|N|100|N|N
 RKDA|Arcadia Biosciences, Inc. - Common Stock|S|N|N|100|N|N
-RLMD|Relmada Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
+RLMD|Relmada Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 RMBI|Richmond Mutual Bancorporation, Inc. - Common Stock|S|N|N|100|N|N
 RMBL|RumbleOn, Inc. - Class B Common Stock|S|N|N|100|N|N
 RMBS|Rambus, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3563,4 +3568,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0713202018:02|||||||
+File Creation Time: 0714202017:02|||||||

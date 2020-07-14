@@ -2197,7 +2197,6 @@ HCC|Warrior Met Coal, Inc. Common Stock|N|HCC|N|100|N|HCC
 HCFT|Hunt Companies Finance Trust, Inc. Common Stock|N|HCFT|N|100|N|HCFT
 HCHC|HC2 Holdings, Inc. Common Stock|N|HCHC|N|100|N|HCHC
 HCI|HCI Group, Inc. Common Stock|N|HCI|N|100|N|HCI
-HCR|Hi-Crush Inc. Common Stock|N|HCR|N|100|N|HCR
 HCRB|Hartford Core Bond ETF|Z|HCRB|Y|100|N|HCRB
 HCXY|Hercules Capital, Inc. 6.25% Notes due 2033|N|HCXY|N|100|N|HCXY
 HCXZ|Hercules Capital, Inc. 5.25% Notes due 2025|N|HCXZ|N|100|N|HCXZ
@@ -2242,7 +2241,6 @@ HGH|Hartford Financial Services Group, Inc. (The) 7.875% Fixed to Floating Rate 
 HGLB|Highland Global Allocation Fund Common Stock|N|HGLB|N|100|N|HGLB
 HGV|Hilton Grand Vacations Inc. Common Stock |N|HGV|N|100|N|HGV
 HHC|Howard Hughes Corporation (The) Common Stock|N|HHC|N|100|N|HHC
-HHS|Harte-Hanks, Inc. Common Stock|N|HHS|N|100|N|HHS
 HI|Hillenbrand Inc Common Stock|N|HI|N|100|N|HI
 HIBL|Direxion Daily S&P 500 High Beta Bull 3X Shares|P|HIBL|Y|100|N|HIBL
 HIBS|Direxion Daily S&P 500 High Beta Bear 3X Shares|P|HIBS|Y|100|N|HIBS
@@ -5358,4 +5356,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0713202018:02||||||
+File Creation Time: 0714202017:02||||||
