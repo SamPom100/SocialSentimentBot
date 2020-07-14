@@ -3,11 +3,11 @@ from collections import Counter
 import praw
 import secret
 from praw.models import MoreComments
-from get_all_tickers import get_tickers as gt
 import time
 import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sb
+from stocklist import NasdaqController
 
 spacer = "\n\n************************************\n\n"
 
@@ -31,11 +31,11 @@ masterSET = []
 
 commentCounter = 0
 
-for submission in subreddit.hot(limit=20):  # .hot, .new
+for submission in subreddit.hot(limit=15):  # .hot, .new
     for sub in submission.title.upper().split(" "):
         masterSET.append(sub)
         commentCounter += 1
-    submission.comments.replace_more(limit=20)
+    submission.comments.replace_more(limit=15)
     for comment in submission.comments.list():
         for sub2 in comment.body.upper().split(" "):
             masterSET.append(sub2)
@@ -76,7 +76,12 @@ plt.pie(slices, labels=names, colors=colors, autopct='%1.1f%%',
 
 print(spacer)
 
-list_of_tickers = gt.get_tickers(NYSE=True, NASDAQ=True, AMEX=True)
+# get all stock tickers
+#from get_all_tickers import get_tickers as gt
+#list_of_tickers = gt.get_tickers(NYSE=True, NASDAQ=True, AMEX=True)
+
+StocksController = NasdaqController(True)
+list_of_tickers = StocksController.getList()
 
 tickerList = []
 
@@ -86,7 +91,7 @@ r_item = ['A', 'ON', 'IT', 'FOR', 'AT', 'ARE', 'BE', 'ALL', 'SO',
           'RUN', 'VERY', 'PLAY', 'DD', 'POST', 'ELSE', 'LOVE', 'TELL', 'BEST', 'LIFE',
           'HOPE', 'TWO', 'NICE', 'BIT', 'MAN', 'TRUE', 'FUN', 'LOW', 'TECH', 'CAR', 'STAY',
           'EOD', 'JOB', 'FLAT', 'OLD', 'RTX', 'HOME', 'OW', 'JOE', 'BEAT', 'WOW', 'X', 'ATH',
-          'SAVE', 'EAT', 'HUGE', 'PER', 'LIVE', 'CARE', 'PEAK', 'TURN', 'PLUS', 'HEAR', 'GAIN', 'BRO', 'RH']
+          'SAVE', 'EAT', 'HUGE', 'PER', 'LIVE', 'CARE', 'PEAK', 'TURN', 'PLUS', 'HEAR', 'GAIN', 'BRO', 'RH', 'JUST', 'NEED', 'KNOW']
 
 main_list = [
     item for item in masterSET if item in list_of_tickers if item not in r_item]
