@@ -276,7 +276,7 @@ ATCX|Atlas Technical Consultants, Inc. - Class A Common Stock|G|N|N|100|N|N
 ATCXW|Atlas Technical Consultants, Inc. - Warrant|G|N|N|100|N|N
 ATEC|Alphatec Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 ATEX|Anterix Inc. - Common Stock|S|N|N|100|N|N
-ATHE|Alterity Therapeutics Limited - American Depositary Shares|S|N|D|100|N|N
+ATHE|Alterity Therapeutics Limited - American Depositary Shares|S|N|N|100|N|N
 ATHX|Athersys, Inc. - Common Stock|S|N|N|100|N|N
 ATIF|ATIF Holdings Limited - Ordinary Shares|S|N|N|100|N|N
 ATLC|Atlanticus Holdings Corporation - Common Stock|Q|N|N|100|N|N
@@ -701,7 +701,7 @@ CLRO|ClearOne, Inc. - Common Stock|S|N|N|100|N|N
 CLSD|Clearside Biomedical, Inc. - Common Stock|G|N|N|100|N|N
 CLSK|CleanSpark, Inc. - Common Stock|S|N|N|100|N|N
 CLSN|Celsion Corporation - Common Stock|S|N|N|100|N|N
-CLUB|Town Sports International Holdings, Inc. - Common Stock|G|N|D|100|N|N
+CLUB|Town Sports International Holdings, Inc. - Common Stock|G|N|H|100|N|N
 CLVS|Clovis Oncology, Inc. - Common Stock|Q|N|N|100|N|N
 CLWT|Euro Tech Holdings Company Limited - Ordinary Shares|S|N|N|100|N|N
 CLXT|Calyxt, Inc. - Common Stock|G|N|N|100|N|N
@@ -1016,7 +1016,7 @@ EIDX|Eidos Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 EIGI|Endurance International Group Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 EIGR|Eiger BioPharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 EKSO|Ekso Bionics Holdings, Inc. - Common Stock|S|N|N|100|N|N
-ELGX|Endologix, Inc. - Common Stock|Q|N|D|100|N|N
+ELGX|Endologix, Inc. - Common Stock|Q|N|N|100|N|N
 ELOX|Eloxx Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ELSE|Electro-Sensors, Inc. - Common Stock|S|N|N|100|N|N
 ELTK|Eltek Ltd. - Ordinary Shares|S|N|N|100|N|N
@@ -1415,6 +1415,7 @@ GNTX|Gentex Corporation - Common Stock|Q|N|N|100|N|N
 GNTY|Guaranty Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 GNUS|Genius Brands International, Inc. - Common Stock|S|N|N|100|N|N
 GO|Grocery Outlet Holding Corp. - Common Stock|Q|N|N|100|N|N
+GOCO|GoHealth, Inc. - Class A Common Stock|Q|N|N|100|N|N
 GOGL|Golden Ocean Group Limited - Common Stock|Q|N|N|100|N|N
 GOGO|Gogo Inc. - Common Stock|Q|N|N|100|N|N
 GOOD|Gladstone Commercial Corporation - Real Estate Investment Trust|Q|N|N|100|N|N
@@ -1461,7 +1462,7 @@ GTIM|Good Times Restaurants Inc. - Common Stock|S|N|N|100|N|N
 GTLS|Chart Industries, Inc. - Common Stock|Q|N|N|100|N|N
 GTYH|GTY Technology Holdings, Inc. - Common Stock|S|N|N|100|N|N
 GURE|Gulf Resources, Inc. - Common Stock|Q|N|N|100|N|N
-GVP|GSE Systems, Inc. - Common Stock|S|N|N|100|N|N
+GVP|GSE Systems, Inc. - Common Stock|S|N|E|100|N|N
 GWGH|GWG Holdings, Inc - Common Stock|S|N|N|100|N|N
 GWPH|GW Pharmaceuticals Plc - American Depositary Shares|G|N|N|100|N|N
 GWRS|Global Water Resources, Inc. - common stock|G|N|N|100|N|N
@@ -2089,6 +2090,7 @@ MKGI|Monaker Group, Inc. - Common Stock|S|N|N|100|N|N
 MKSI|MKS Instruments, Inc. - Common Stock|Q|N|N|100|N|N
 MKTX|MarketAxess Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 MLAB|Mesa Laboratories, Inc. - Common Stock|Q|N|N|100|N|N
+MLACU|Malacca Straits Acquisition Company Limited - Units|S|N|N|100|N|N
 MLCO|Melco Resorts & Entertainment Limited - American Depositary Shares |Q|N|N|100|N|N
 MLHR|Herman Miller, Inc. - Common Stock|Q|N|N|100|N|N
 MLND|Millendo Therapeutics, Inc.  - Common Stock|S|N|N|100|N|N
@@ -2211,7 +2213,7 @@ NEPT|Neptune Wellness Solutions Inc. - Ordinary Shares|S|N|N|100|N|N
 NERV|Minerva Neurosciences, Inc - Common Stock|G|N|N|100|N|N
 NESR|National Energy Services Reunited Corp. - Ordinary Shares|S|N|N|100|N|N
 NESRW|National Energy Services Reunited Corp. - Warrant|S|N|N|100|N|N
-NETE|Net Element, Inc. - Common Stock|S|N|D|100|N|N
+NETE|Net Element, Inc. - Common Stock|S|N|N|100|N|N
 NEWA|Newater Technology, Inc. - Ordinary Shares|S|N|N|100|N|N
 NEWT|Newtek Business Services Corp. - Common Stock|G|N|N|100|N|N
 NEWTI|Newtek Business Services Corp. - 6.25% Notes Due 2023|G|N|N|100|N|N
@@ -2899,7 +2901,7 @@ SGRP|SPAR Group, Inc. - Common Stock|S|N|D|100|N|N
 SGRY|Surgery Partners, Inc. - Common Stock|Q|N|N|100|N|N
 SHBI|Shore Bancshares Inc - Common Stock|Q|N|N|100|N|N
 SHEN|Shenandoah Telecommunications Co - Common Stock|Q|N|N|100|N|N
-SHIP|Seanergy Maritime Holdings Corp - Common Stock|S|N|D|100|N|N
+SHIP|Seanergy Maritime Holdings Corp - Common Stock|S|N|N|100|N|N
 SHIPW|Seanergy Maritime Holdings Corp - Class A Warrants|S|N|N|100|N|N
 SHIPZ|Seanergy Maritime Holdings Corp - Class B Warrant|S|N|N|100|N|N
 SHLO|Shiloh Industries, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3410,7 +3412,7 @@ VTWO|Vanguard Russell 2000 ETF|G|N|N|100|Y|N
 VTWV|Vanguard Russell 2000 Value ETF|G|N|N|100|Y|N
 VUZI|Vuzix Corporation - Common Stock|S|N|N|100|N|N
 VVPR|VivoPower International PLC - Ordinary Shares|S|N|N|100|N|N
-VVUS|VIVUS, Inc. - Common Stock|Q|N|N|100|N|N
+VVUS|VIVUS, Inc. - Common Stock|Q|N|Q|100|N|N
 VWOB|Vanguard Emerging Markets Government Bond ETF|G|N|N|100|Y|N
 VXRT|Vaxart, Inc. - Common Stock|S|N|D|100|N|N
 VXUS|Vanguard Total International Stock ETF|G|N|N|100|Y|N
@@ -3568,4 +3570,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0714202017:02|||||||
+File Creation Time: 0715202021:32|||||||

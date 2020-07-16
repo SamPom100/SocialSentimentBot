@@ -1113,6 +1113,7 @@ DEEF|Xtrackers FTSE Developed ex US Comprehensive Factor ETF|P|DEEF|Y|100|N|DEEF
 DEEP|Roundhill Acquirers Deep Value ETF|P|DEEP|Y|100|N|DEEP
 DEF|Invesco Defensive Equity ETF|P|DEF|Y|100|N|DEF
 DEFA|iShares Adaptive Currency Hedged MSCI EAFE ETF|Z|DEFA|Y|100|N|DEFA
+DEH.U|D8 Holdings Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|DEH.U|N|100|N|DEH=
 DEI|Douglas Emmett, Inc. Common Stock|N|DEI|N|100|N|DEI
 DELL|Dell Technologies Inc. Class C Common Stock |N|DELL|N|100|N|DELL
 DEM|WisdomTree Emerging Markets High Dividend Fund|P|DEM|Y|100|N|DEM
@@ -1513,6 +1514,7 @@ ESCR|Xtrackers Bloomberg Barclays US Investment Grade Corporate ESG ETF|Z|ESCR|Y
 ESE|ESCO Technologies Inc. Common Stock|N|ESE|N|100|N|ESE
 ESEB|Xtrackers J.P. Morgan ESG Emerging Markets Sovereign ETF|Z|ESEB|Y|100|N|ESEB
 ESG|FlexShares Trust FlexShares STOXX US ESG Impact Index Fund|Z|ESG|Y|100|N|ESG
+ESGA|American Century Sustainable Equity ETF|P|ESGA|Y|100|N|ESGA
 ESGG|FlexShares Trust FlexShares STOXX Global ESG Impact Index Fund|Z|ESGG|Y|100|N|ESGG
 ESGN|Columbia Sustainable International Equity Income ETF|P|ESGN|Y|100|N|ESGN
 ESGS|Columbia Sustainable U.S. Equity Income ETF|P|ESGS|Y|100|N|ESGS
@@ -3090,6 +3092,7 @@ MHN|Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock|N|MHN|N|100|
 MHNC|Maiden Holdings North America, Ltd. 7.75% Notes due 2043|N|MHNC|N|100|N|MHNC
 MHO|M/I Homes, Inc. Common Stock|N|MHO|N|100|N|MHO
 MIC|Macquarie Infrastructure Corporation Common Stock|N|MIC|N|100|N|MIC
+MID|American Century Mid Cap Growth Impact ETF|P|MID|Y|100|N|MID
 MIDF|iShares Edge MSCI Multifactor USA Mid-Cap ETF|P|MIDF|Y|100|N|MIDF
 MIDU|Direxion Mid Cap Bull 3X Shares|P|MIDU|Y|100|N|MIDU
 MIE|Cohen & Steers MLP Income and Energy Opportunity Fund, Inc. Common Stock|N|MIE|N|100|N|MIE
@@ -5025,7 +5028,7 @@ VFMO|Vanguard U.S. Momentum Factor ETF|Z|VFMO|Y|100|N|VFMO
 VFMV|Vanguard U.S. Minimum Volatility ETF|Z|VFMV|Y|100|N|VFMV
 VFQY|Vanguard U.S. Quality Factor ETF|Z|VFQY|Y|100|N|VFQY
 VFVA|Vanguard U.S. Value Factor ETF|Z|VFVA|Y|100|N|VFVA
-VGFO|Virtus WMC Global Factor Opportunities ETF|P|VGFO|Y|100|N|VGFO
+VGFO|Virtus WMC Global Factor Opportunities ETF|Z|VGFO|Y|100|N|VGFO
 VGI|Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest|N|VGI|N|100|N|VGI
 VGK|Vanguard FTSEEuropean ETF|P|VGK|Y|100|N|VGK
 VGM|Invesco Trust for Investment Grade Municipals Common Stock (DE)|N|VGM|N|100|N|VGM
@@ -5356,4 +5359,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0714202017:02||||||
+File Creation Time: 0715202021:32||||||
