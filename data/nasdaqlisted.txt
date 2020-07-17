@@ -143,7 +143,7 @@ ALRS|Alerus Financial Corporation - Common Stock|S|N|N|100|N|N
 ALSK|Alaska Communications Systems Group, Inc. - Common Stock|Q|N|N|100|N|N
 ALT|Altimmune, Inc. - Common Stock|G|N|N|100|N|N
 ALTA|Altabancorp - Common Stock|S|N|N|100|N|N
-ALTM|Altus Midstream Company - Class A Common Stock|G|N|D|100|N|N
+ALTM|Altus Midstream Company - Class A Common Stock|G|N|N|100|N|N
 ALTR|Altair Engineering Inc. - Class A Common Stock|Q|N|N|100|N|N
 ALTY|Global X SuperDividend Alternatives ETF|G|N|N|100|Y|N
 ALXN|Alexion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
@@ -469,7 +469,7 @@ BRPA|Big Rock Partners Acquisition Corp. - Common Stock|S|N|D|100|N|N
 BRPAR|Big Rock Partners Acquisition Corp. - Right|S|N|D|100|N|N
 BRPAU|Big Rock Partners Acquisition Corp. - Unit|S|N|D|100|N|N
 BRPAW|Big Rock Partners Acquisition Corp. - Warrant|S|N|D|100|N|N
-BRQS|Borqs Technologies, Inc.  - Ordinary Shares|S|N|N|100|N|N
+BRQS|Borqs Technologies, Inc.  - Ordinary Shares|S|N|E|100|N|N
 BRY|Berry Corporation (bry) - Common Stock|Q|N|N|100|N|N
 BSAE|Invesco BulletShares 2021 USD Emerging Markets Debt ETF|G|N|N|100|Y|N
 BSBE|Invesco BulletShares 2022 USD Emerging Markets Debt ETF|G|N|N|100|Y|N
@@ -1016,7 +1016,6 @@ EIDX|Eidos Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 EIGI|Endurance International Group Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 EIGR|Eiger BioPharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 EKSO|Ekso Bionics Holdings, Inc. - Common Stock|S|N|N|100|N|N
-ELGX|Endologix, Inc. - Common Stock|Q|N|N|100|N|N
 ELOX|Eloxx Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ELSE|Electro-Sensors, Inc. - Common Stock|S|N|N|100|N|N
 ELTK|Eltek Ltd. - Ordinary Shares|S|N|N|100|N|N
@@ -1579,7 +1578,7 @@ HUGE|FSD Pharma Inc. - Class B Subordinate Voting Shares|S|N|N|100|N|N
 HUIZ|Huize Holding Limited - American Depositary Shares|G|N|N|100|N|N
 HURC|Hurco Companies, Inc. - Common Stock|Q|N|N|100|N|N
 HURN|Huron Consulting Group Inc. - Common Stock|Q|N|N|100|N|N
-HUSN|Hudson Capital Inc. - Ordinary Shares|G|N|D|100|N|N
+HUSN|Hudson Capital Inc. - Ordinary Shares|S|N|D|100|N|N
 HVBC|HV Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 HWBK|Hawthorn Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 HWC|Hancock Whitney Corporation - Common Stock|Q|N|N|100|N|N
@@ -1613,6 +1612,7 @@ IBTG|iShares iBonds Dec 2026 Term Treasury ETF|G|N|N|100|Y|N
 IBTH|iShares iBonds Dec 2027 Term Treasury ETF|G|N|N|100|Y|N
 IBTI|iShares iBonds Dec 2028 Term Treasury ETF|G|N|N|100|Y|N
 IBTJ|iShares iBonds Dec 2029 Term Treasury ETF|G|N|N|100|Y|N
+IBTK|iShares iBonds Dec 2030 Term Treasury ETF|G|N|N|100|Y|N
 IBTX|Independent Bank Group, Inc - Common Stock|Q|N|N|100|N|N
 IBUY|Amplify Online Retail ETF|G|N|N|100|Y|N
 ICAD|icad inc. - Common Stock|S|N|N|100|N|N
@@ -2761,6 +2761,7 @@ RING|iShares MSCI Global Gold Miners ETF|G|N|N|100|Y|N
 RIOT|Riot Blockchain, Inc - Common Stock|S|N|N|100|N|N
 RIVE|Riverview Financial Corporation - Common Stock|G|N|N|100|N|N
 RKDA|Arcadia Biosciences, Inc. - Common Stock|S|N|N|100|N|N
+RLAY|Relay Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 RLMD|Relmada Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 RMBI|Richmond Mutual Bancorporation, Inc. - Common Stock|S|N|N|100|N|N
 RMBL|RumbleOn, Inc. - Class B Common Stock|S|N|N|100|N|N
@@ -3174,6 +3175,7 @@ THMO|ThermoGenesis Holdings, Inc. - Common Stock|S|N|N|100|N|N
 THRM|Gentherm Inc - Common Stock|Q|N|N|100|N|N
 THTX|Theratechnologies Inc. - Common Shares|S|N|N|100|N|N
 THWWW|Target Hospitality Corp. - Warrant expiring 3/15/2024|S|N|N|100|N|N
+TIG|Trean Insurance Group, Inc. - Common Stock|Q|N|N|100|N|N
 TIGO|Millicom International Cellular S.A. - Common Stock|Q|N|N|100|N|N
 TIGR|UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares|Q|N|N|100|N|N
 TILE|Interface, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3412,7 +3414,7 @@ VTWO|Vanguard Russell 2000 ETF|G|N|N|100|Y|N
 VTWV|Vanguard Russell 2000 Value ETF|G|N|N|100|Y|N
 VUZI|Vuzix Corporation - Common Stock|S|N|N|100|N|N
 VVPR|VivoPower International PLC - Ordinary Shares|S|N|N|100|N|N
-VVUS|VIVUS, Inc. - Common Stock|Q|N|Q|100|N|N
+VVUS|VIVUS, Inc. - Common Stock|Q|N|N|100|N|N
 VWOB|Vanguard Emerging Markets Government Bond ETF|G|N|N|100|Y|N
 VXRT|Vaxart, Inc. - Common Stock|S|N|D|100|N|N
 VXUS|Vanguard Total International Stock ETF|G|N|N|100|Y|N
@@ -3570,4 +3572,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0715202021:32|||||||
+File Creation Time: 0716202021:32|||||||

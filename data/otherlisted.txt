@@ -199,6 +199,7 @@ AMK|AssetMark Financial Holdings, Inc. Common Stock|N|AMK|N|100|N|AMK
 AMLP|Alerian MLP ETF|P|AMLP|Y|100|N|AMLP
 AMN|AMN Healthcare Services Inc AMN Healthcare Services Inc|N|AMN|N|100|N|AMN
 AMNA|ETRACS Alerian Midstream Energy Index ETN|P|AMNA|Y|100|N|AMNA
+AMND|UBS AG ETRACS Alerian Midstream Energy High Dividend Index ETN|P|AMND|Y|100|N|AMND
 AMOM|QRAFT AI-Enhanced U.S. Large Cap Momentum ETF|P|AMOM|Y|100|N|AMOM
 AMOV|America Movil, S.A.B. de C.V. Class A American Depositary Shares|N|AMOV|N|100|N|AMOV
 AMP|Ameriprise Financial, Inc. Common Stock|N|AMP|N|100|N|AMP
@@ -1206,6 +1207,8 @@ DMRI|DeltaShares S&P International Managed Risk ETF|P|DMRI|Y|100|N|DMRI
 DMRL|DeltaShares S&P 500 Managed Risk ETF|P|DMRL|Y|100|N|DMRL
 DMRM|DeltaShares S&P 400 Managed Risk ETF|P|DMRM|Y|100|N|DMRM
 DMRS|DeltaShares S&P 600 Managed Risk ETF|P|DMRS|Y|100|N|DMRS
+DMS|Digital Media Solutions, Inc. Class A Ordinary Shares|N|DMS|N|100|N|DMS
+DMS.W|Digital Media Solutions, Inc. Warrants, |N|DMS.WS|N|100|N|DMS+
 DMYT|dMY Technology Group, Inc. Class A Common Stock|N|DMYT|N|100|N|DMYT
 DMYT.U|dMY Technology Group, Inc. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant|N|DMYT.U|N|100|N|DMYT=
 DMYT.W|dMY Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share|N|DMYT.WS|N|100|N|DMYT+
@@ -1789,6 +1792,7 @@ FLT|FleetCor Technologies, Inc. Common Stock|N|FLT|N|100|N|FLT
 FLTB|Fidelity Limited Term Bond ETF|P|FLTB|Y|100|N|FLTB
 FLTR|VanEck Vectors Investment Grade Floating Rate ETF|P|FLTR|Y|100|N|FLTR
 FLTW|Franklin FTSE Taiwan ETF|P|FLTW|Y|100|N|FLTW
+FLUD|Franklin Liberty Ultra Short Bond ETF|P|FLUD|Y|100|N|FLUD
 FLV|American Century Focused Large Cap Value ETF|Z|FLV|Y|100|N|FLV
 FLY|Fly Leasing Limited|N|FLY|N|100|N|FLY
 FLYT|Direxion Flight to Safety Strategy ETF|P|FLYT|Y|100|N|FLYT
@@ -2291,6 +2295,7 @@ HPP|Hudson Pacific Properties, Inc. Common Stock|N|HPP|N|100|N|HPP
 HPQ|HP Inc. Common Stock|N|HPQ|N|100|N|HPQ
 HPR|HighPoint Resources Corporation Common Stock|N|HPR|N|100|N|HPR
 HPS|John Hancock Preferred Income Fund III Preferred Income Fund III|N|HPS|N|100|N|HPS
+HPX.U|HPX Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|HPX.U|N|100|N|HPX=
 HQH|Tekla Healthcare Investors Common Stock|N|HQH|N|100|N|HQH
 HQL|TeklaLife Sciences Investors Common Stock|N|HQL|N|100|N|HQL
 HR|Healthcare Realty Trust Incorporated Common Stock|N|HR|N|100|N|HR
@@ -2926,9 +2931,6 @@ LGVW|Longview Acquisition Corp. Class A Common Stock|N|LGVW|N|100|N|LGVW
 LGVW.U|Longview Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-third of one warrant|N|LGVW.U|N|100|N|LGVW=
 LGVW.W|Longview Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share|N|LGVW.WS|N|100|N|LGVW+
 LH|Laboratory Corporation of America Holdings Common Stock|N|LH|N|100|N|LH
-LHC|Leo Holdings Corp. Class A Ordinary Shares|N|LHC|N|100|N|LHC
-LHC.U|Leo Holdings Corp. Units, each consisting of one Class A ordinary share, and one-third of one redeemable warrant|N|LHC.U|N|100|N|LHC=
-LHC.W|Leo Holdings Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at an exercise price of $11.50|N|LHC.WS|N|100|N|LHC+
 LHX|L3Harris Technologies, Inc. Common Stock|N|LHX|N|100|N|LHX
 LII|Lennox International, Inc. Common Stock|N|LII|N|100|N|LII
 LIN|Linde plc Ordinary Share|N|LIN|N|100|N|LIN
@@ -4047,6 +4049,7 @@ RIGS|RiverFront Strategic Income Fund|P|RIGS|Y|100|N|RIGS
 RINF|ProShares Inflation Expectations ETF|P|RINF|Y|100|N|RINF
 RIO|Rio Tinto Plc Common Stock|N|RIO|N|100|N|RIO
 RISE|Sit Rising Rate ETF|P|RISE|Y|100|N|RISE
+RISN|Inspire Tactical Balanced ESG ETF|P|RISN|Y|100|N|RISN
 RIV|RiverNorth Opportunities Fund, Inc. Common Stock|N|RIV|N|100|N|RIV
 RJA|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product|P|RJA|N|100|N|RJA
 RJF|Raymond James Financial, Inc. Common Stock|N|RJF|N|100|N|RJF
@@ -4260,7 +4263,6 @@ SDCI|USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund|P|SDCI|Y|100|N|SDCI
 SDD|ProShares UltraShort SmallCap600|P|SDD|Y|100|N|SDD
 SDEM|Global X MSCI SuperDividend Emerging Markets ETF|P|SDEM|Y|100|N|SDEM
 SDGA|Impact Shares Sustainable Development Goals Global Equity ETF|P|SDGA|Y|100|N|SDGA
-SDI|Standard Diversified Inc. Class A Common Stock|A|SDI|N|100|N|SDI
 SDIV|Global X SuperDividend ETF|P|SDIV|Y|100|N|SDIV
 SDOG|ALPS Sector Dividend Dogs ETF|P|SDOG|Y|100|N|SDOG
 SDOW|UltraPro Short Dow30|P|SDOW|Y|100|N|SDOW
@@ -5359,4 +5361,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0715202021:32||||||
+File Creation Time: 0716202021:32||||||
