@@ -1,3 +1,4 @@
+from datetime import datetime
 from datetime import date
 from collections import Counter
 import praw
@@ -124,3 +125,5 @@ end = time.time()
 print("Run time: " + str(round(end - start, 2))+" seconds")
 
 plt.show()
+
+plt.savefig(datetime.today().strftime('%%m-%d-%Y')+'.png')
