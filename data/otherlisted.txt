@@ -261,6 +261,7 @@ ARES|Ares Management Corporation Class A Common Stock|N|ARES|N|100|N|ARES
 ARES$A|Ares Management Corporation 7.00% Series A Preferred Stock|N|ARESpA|N|100|N|ARES-A
 ARGD|Argo Group International Holdings, Ltd. 6.5% Senior Notes Due 2042|N|ARGD|N|100|N|ARGD
 ARGO|Argo Group International Holdings, Ltd.|N|ARGO|N|100|N|ARGO
+ARGO$A|Argo Group International Holdings, Ltd. Depositary Shares, Each Representing a 1/1,000th Interest in a 7.00% Resettable Fixed Rate Preference Share, Series A|N|ARGOpA|N|100|N|ARGO-A
 ARGT|Global X MSCI Argentina ETF|P|ARGT|Y|100|N|ARGT
 ARI|Apollo Commercial Real Estate Finance, Inc|N|ARI|N|100|N|ARI
 ARKF|ARK Fintech Innovation ETF|P|ARKF|Y|100|N|ARKF
@@ -480,7 +481,6 @@ BFY|BlackRock New York Municipal Income Trust II|N|BFY|N|100|N|BFY
 BFZ|BlackRock California Municipal Income Trust|N|BFZ|N|100|N|BFZ
 BG|Bunge Limited Bunge Limited|N|BG|N|100|N|BG
 BGB|Blackstone / GSO Strategic Credit Fund Common Shares|N|BGB|N|100|N|BGB
-BGG|Briggs & Stratton Corporation Common Stock|N|BGG|N|100|N|BGG
 BGH|Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests|N|BGH|N|100|N|BGH
 BGI|Birks Group Inc. Common Stock|A|BGI|N|100|N|BGI
 BGIO|BlackRock 2022 Global Income Opportunity Trust Common Shares of Beneficial Interest|N|BGIO|N|100|N|BGIO
@@ -5364,4 +5364,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0720202018:01||||||
+File Creation Time: 0721202015:41||||||

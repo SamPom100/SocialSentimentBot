@@ -812,6 +812,7 @@ CSOD|Cornerstone OnDemand, Inc. - Common Stock|Q|N|N|100|N|N
 CSPI|CSP Inc. - Common Stock|G|N|N|100|N|N
 CSQ|Calamos Strategic Total Return Fund - Common Stock|Q|N|N|100|N|N
 CSSE|Chicken Soup for the Soul Entertainment, Inc. - Class A Common Stock|G|N|N|100|N|N
+CSSEN|Chicken Soup for the Soul Entertainment, Inc. - 9.50% Notes due 2025|G|N|N|100|N|N
 CSSEP|Chicken Soup for the Soul Entertainment, Inc. - 9.75% Series A Cumulative Redeemable Perpetual Preferred Stock|G|N|N|100|N|N
 CSTE|Caesarstone Ltd. - Ordinary Shares|Q|N|N|100|N|N
 CSTL|Castle Biosciences, Inc. - Common stock|G|N|N|100|N|N
@@ -867,7 +868,7 @@ CYRX|CryoPort, Inc. - Common Stock|S|N|N|100|N|N
 CYRXW|CryoPort, Inc. - Warrants|S|N|N|100|N|N
 CYTK|Cytokinetics, Incorporated - Common Stock|Q|N|N|100|N|N
 CZNC|Citizens & Northern Corp - Common Stock|S|N|N|100|N|N
-CZR|Caesars Entertainment Corporation - Common Stock|Q|N|N|100|N|N
+CZR|Caesars Entertainment, Inc. - Common Stock|Q|N|N|100|N|N
 CZWI|Citizens Community Bancorp, Inc. - Common Stock|G|N|N|100|N|N
 DADA|Dada Nexus Limited - American Depositary Shares|Q|N|N|100|N|N
 DAIO|Data I/O Corporation - Common Stock|S|N|N|100|N|N
@@ -1049,7 +1050,6 @@ EQ|Equillium, Inc. - Common Stock|G|N|N|100|N|N
 EQBK|Equity Bancshares, Inc. - Class A Common Stock|Q|N|N|100|N|N
 EQIX|Equinix, Inc. - Common Stock|Q|N|N|100|N|N
 EQRR|ProShares Equities for Rising Rates ETF|G|N|N|100|Y|N
-ERI|Eldorado Resorts, Inc. - Common Stock|Q|N|N|100|N|N
 ERIC|Ericsson - American Depositary Shares each representing 1 underlying Class B share|Q|N|N|100|N|N
 ERIE|Erie Indemnity Company - Class A Common Stock|Q|N|N|100|N|N
 ERII|Energy Recovery, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1085,7 +1085,7 @@ EVER|EverQuote, Inc. - Class A Common Stock|G|N|N|100|N|N
 EVFM|Evofem Biosciences, Inc. - Common Stock|S|N|N|100|N|N
 EVGBC|Eaton Vance Global Income Builder NextShares|G|N|N|100|N|Y
 EVGN|Evogene Ltd. - Ordinary Shares|G|N|N|100|N|N
-EVK|Ever-Glory International Group, Inc. - Common Stock|G|N|D|100|N|N
+EVK|Ever-Glory International Group, Inc. - Common Stock|G|N|N|100|N|N
 EVLMC|Eaton Vance TABS 5-to-15 Year Laddered Municipal Bond NextShares|G|N|N|100|N|Y
 EVLO|Evelo Biosciences, Inc. - Common Stock|Q|N|N|100|N|N
 EVOK|Evoke Pharma, Inc. - Common Stock|S|N|N|100|N|N
@@ -1496,7 +1496,7 @@ HCACW|Hennessy Capital Acquisition Corp. IV - Warrant|S|N|N|100|N|N
 HCAP|Harvest Capital Credit Corporation - Common Stock|G|N|N|100|N|N
 HCAPZ|Harvest Capital Credit Corporation - 6.125% Notes due 2022|G|N|N|100|N|N
 HCAT|Health Catalyst, Inc - Common stock|Q|N|N|100|N|N
-HCCH|HL Acquisitions Corp. - Ordinary Shares|S|N|D|100|N|N
+HCCH|HL Acquisitions Corp. - Ordinary Shares|S|N|N|100|N|N
 HCCHR|HL Acquisitions Corp. - Right|S|N|N|100|N|N
 HCCHU|HL Acquisitions Corp. - Unit|S|N|N|100|N|N
 HCCHW|HL Acquisitions Corp. - Warrant|S|N|N|100|N|N
@@ -3297,7 +3297,7 @@ ULH|Universal Logistics Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 ULTA|Ulta Beauty, Inc. - Common Stock|Q|N|N|100|N|N
 UMBF|UMB Financial Corporation - Common Stock|Q|N|N|100|N|N
 UMPQ|Umpqua Holdings Corporation - Common Stock|Q|N|N|100|N|N
-UMRX|Unum Therapeutics Inc. - Common Stock|Q|N|D|100|N|N
+UMRX|Unum Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
 UNAM|Unico American Corporation - Common Stock|G|N|N|100|N|N
 UNB|Union Bankshares, Inc. - Common Stock|G|N|N|100|N|N
 UNIT|Uniti Group Inc. - Common Stock|Q|N|N|100|N|N
@@ -3576,4 +3576,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0720202018:01|||||||
+File Creation Time: 0721202015:41|||||||
