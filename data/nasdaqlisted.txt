@@ -147,7 +147,7 @@ ALTM|Altus Midstream Company - Class A Common Stock|G|N|N|100|N|N
 ALTR|Altair Engineering Inc. - Class A Common Stock|Q|N|N|100|N|N
 ALTY|Global X SuperDividend Alternatives ETF|G|N|N|100|Y|N
 ALXN|Alexion Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
-ALXO|ALX Oncology Holdings Inc. - Common Stock |Q|N|N|100|N|N
+ALXO|ALX Oncology Holdings Inc. - Common Stock|Q|N|N|100|N|N
 ALYA|Alithya Group inc. - Class A subordinate voting shares|S|N|N|100|N|N
 AMAG|AMAG Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 AMAL|Amalgamated Bank - Class A Common Stock|G|N|N|100|N|N
@@ -910,7 +910,6 @@ DISCK|Discovery, Inc. - Series C Common Stock|Q|N|N|100|N|N
 DISH|DISH Network Corporation - Class A Common Stock|Q|N|N|100|N|N
 DJCO|Daily Journal Corp. (S.C.) - Common Stock|S|N|N|100|N|N
 DKNG|DraftKings Inc. - Class A Common Stock|Q|N|N|100|N|N
-DKNGZ|DraftKings Inc. - Warrant|Q|N|N|100|N|N
 DLHC|DLH Holdings Corp. - Common Stock|S|N|N|100|N|N
 DLPN|Dolphin Entertainment, Inc. - Common Stock|S|N|D|100|N|N
 DLPNW|Dolphin Entertainment, Inc. - Warrant|S|N|N|100|N|N
@@ -2595,6 +2594,7 @@ PROG|Progenity, Inc. - Common Stock|G|N|N|100|N|N
 PROV|Provident Financial Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 PRPH|ProPhase Labs, Inc. - Common Stock|S|N|N|100|N|N
 PRPL|Purple Innovation, Inc. - Common Stock|S|N|N|100|N|N
+PRPLW|Purple Innovation, Inc. - Warrant|S|N|N|100|N|N
 PRPO|Precipio, Inc. - Common Stock|S|N|N|100|N|N
 PRQR|ProQR Therapeutics N.V. - Ordinary Shares|G|N|N|100|N|N
 PRSC|The Providence Service Corporation - Common Stock|Q|N|N|100|N|N
@@ -3576,4 +3576,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0717202017:01|||||||
+File Creation Time: 0720202018:01|||||||

@@ -640,7 +640,6 @@ BTU|Peabody Energy Corporation Common Stock |N|BTU|N|100|N|BTU
 BTYS|iPath Series B US Treasury 10-year Bear ETN|Z|BTYS|Y|100|N|BTYS
 BTZ|BlackRock Credit Allocation Income Trust|N|BTZ|N|100|N|BTZ
 BUD|Anheuser-Busch Inbev SA Sponsored ADR (Belgium)|N|BUD|N|100|N|BUD
-BUFF|Innovator S&P 500 Diversified Power Buffer ETF|Z|BUFF|Y|100|N|BUFF
 BUI|BlackRock Utility, Infrastructure & Power Opportunities Trust|N|BUI|N|100|N|BUI
 BUL|Pacer US Cash Cows Growth ETF|P|BUL|Y|100|N|BUL
 BURL|Burlington Stores, Inc. Common Stock|N|BURL|N|100|N|BURL
@@ -1175,6 +1174,7 @@ DJCI|E-TRACS Linked to the Bloomberg Commodity Index Total Return due October 31
 DJD|Invesco Dow Jones Industrial Average Dividend ETF|P|DJD|Y|100|N|DJD
 DJP|iPath Bloomberg Commodity Index Total Return ETN|P|DJP|N|100|N|DJP
 DJPY|ETNs linked to the VelocityShares Daily 4X Long USD vs. JPY Index|P|DJPY|N|100|N|DJPY
+DJUL|FT Cboe Vest U.S. Equity Deep Buffer ETF - July|Z|DJUL|Y|100|N|DJUL
 DJUN|FT Cboe Vest U.S. Equity Deep Buffer ETF - June|Z|DJUN|Y|100|N|DJUN
 DK|Delek US Holdings, Inc. Common Stock|N|DK|N|100|N|DK
 DKL|Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests|N|DKL|N|100|N|DKL
@@ -1734,6 +1734,7 @@ FIW|First Trust Water ETF|P|FIW|Y|100|N|FIW
 FIX|Comfort Systems USA, Inc. Common Stock|N|FIX|N|100|N|FIX
 FIYY|Barclays ETN  FI Enhanced Global High Yield Exchange Traded Notes Series B|P|FIYY|N|100|N|FIYY
 FJNK|Pacific Global Focused High Yield ETF|P|FJNK|Y|100|N|FJNK
+FJUL|FT Cboe Vest U.S. Equity Buffer ETF - July|Z|FJUL|Y|100|N|FJUL
 FJUN|FT Cboe Vest U.S. Equity Buffer ETF - June|Z|FJUN|Y|100|N|FJUN
 FL|Foot Locker, Inc.|N|FL|N|100|N|FL
 FLAT|iPath US Treasury Flattener ETN|Z|FLAT|N|100|N|FLAT
@@ -2980,6 +2981,7 @@ LTL|ProShares Ultra Telecommunications ProShares|P|LTL|Y|100|N|LTL
 LTPZ|Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund|P|LTPZ|Y|100|N|LTPZ
 LUB|Luby's, Inc. Common Stock|N|LUB|N|100|N|LUB
 LUV|Southwest Airlines Company Common Stock|N|LUV|N|100|N|LUV
+LVHB|Innovator Lunt Low Vol/High Beta Tactical ETF|Z|LVHB|Y|100|N|LVHB
 LVHI|Legg Mason International Low Volatility High Dividend ETF|Z|LVHI|Y|100|N|LVHI
 LVS|Las Vegas Sands Corp. Common Stock|N|LVS|N|100|N|LVS
 LVUS|Hartford Multifactor Low Volatility US Equity ETF|Z|LVUS|Y|100|N|LVUS
@@ -4422,6 +4424,7 @@ SOL|Renesola Ltd. American Depsitary Shares (Each representing 10 shares)|N|SOL|
 SOLN|Southern Company (The) 2019 Series A Corporate Units|N|SOLN|N|100|N|SOLN
 SON|Sonoco Products Company Common Stock|N|SON|N|100|N|SON
 SOR|Source Capital, Inc. Common Stock|N|SOR|N|100|N|SOR
+SOS|SOS Limited American Depositary Shares|N|SOS|N|100|N|SOS
 SOVB|Cambria Sovereign Bond ETF|Z|SOVB|Y|100|N|SOVB
 SOXL|Direxion Daily Semiconductor Bull 3x Shares|P|SOXL|Y|100|N|SOXL
 SOXS|Direxion Daily Semiconductor Bear 3x Shares|P|SOXS|Y|100|N|SOXS
@@ -5029,7 +5032,6 @@ VFMO|Vanguard U.S. Momentum Factor ETF|Z|VFMO|Y|100|N|VFMO
 VFMV|Vanguard U.S. Minimum Volatility ETF|Z|VFMV|Y|100|N|VFMV
 VFQY|Vanguard U.S. Quality Factor ETF|Z|VFQY|Y|100|N|VFQY
 VFVA|Vanguard U.S. Value Factor ETF|Z|VFVA|Y|100|N|VFVA
-VGFO|Virtus WMC Global Factor Opportunities ETF|Z|VGFO|Y|100|N|VGFO
 VGI|Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest|N|VGI|N|100|N|VGI
 VGK|Vanguard FTSEEuropean ETF|P|VGK|Y|100|N|VGK
 VGM|Invesco Trust for Investment Grade Municipals Common Stock (DE)|N|VGM|N|100|N|VGM
@@ -5124,6 +5126,7 @@ VVNT|Vivint Smart Home, Inc. |N|VVNT|N|100|N|VVNT
 VVNT.W|Vivint Smart Home, Inc. Warrants|N|VVNT.WS|N|100|N|VVNT+
 VVR|Invesco Senior Income Trust Common Stock (DE)|N|VVR|N|100|N|VVR
 VVV|Valvoline Inc. Common Stock|N|VVV|N|100|N|VVV
+VWID|Virtus WMC International Dividend ETF|Z|VWID|Y|100|N|VWID
 VWO|Vanguard FTSE Emerging Markets ETF|P|VWO|Y|100|N|VWO
 VXF|Vanguard Extended Market ETF|P|VXF|Y|100|N|VXF
 VXX|iPath Series B S&P 500 VIX Short-Term Futures ETN|Z|VXX|N|100|N|VXX
@@ -5297,7 +5300,6 @@ XPH|SPDR S&P Pharmaceuticals ETF|P|XPH|Y|100|N|XPH
 XPL|Solitario Zinc Corp. Common Stock|A|XPL|N|100|N|XPL
 XPO|XPO Logistics, Inc.|N|XPO|N|100|N|XPO
 XPP|ProShares Ultra FTSE China 50|P|XPP|Y|100|N|XPP
-XRF|China Rapid Finance Limited American Depositary Shares|N|XRF|N|100|N|XRF
 XRLV|Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF|P|XRLV|Y|100|N|XRLV
 XRT|SPDR S&P Retail ETF|P|XRT|Y|100|N|XRT
 XRX|Xerox Holdings Corporation Common Stock|N|XRX|N|100|N|XRX
@@ -5362,4 +5364,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0717202017:01||||||
+File Creation Time: 0720202018:01||||||
