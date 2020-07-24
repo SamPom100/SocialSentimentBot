@@ -27,7 +27,6 @@ ACB|Aurora Cannabis Inc. Common Shares|N|ACB|N|100|N|ACB
 ACC|American Campus Communities Inc Common Stock|N|ACC|N|100|N|ACC
 ACCO|Acco Brands Corporation Common Stock|N|ACCO|N|100|N|ACCO
 ACEL|Accel Entertainment, Inc. |N|ACEL|N|100|N|ACEL
-ACEL.W|Accel Entertainment, Inc. Warrants|N|ACEL.WS|N|100|N|ACEL+
 ACES|ALPS Clean Energy ETF|Z|ACES|Y|100|N|ACES
 ACH|Aluminum Corporation of China Limited American Depositary Shares|N|ACH|N|100|N|ACH
 ACI|Albertsons Companies, Inc. Class A Common Stock|N|ACI|N|100|N|ACI
@@ -3043,6 +3042,7 @@ MDYV|SPDR S&P 400 Mid Cap Value ETF (based on S&P MidCap 400 Value Index--symbol
 MEAR|iShares Short Maturity Municipal Bond ETF|Z|MEAR|Y|100|N|MEAR
 MEC|Mayville Engineering Company, Inc. Common Stock|N|MEC|N|100|N|MEC
 MED|MEDIFAST INC Common Stock|N|MED|N|100|N|MED
+MEG|Montrose Environmental Group, Inc. Common Stock|N|MEG|N|100|N|MEG
 MEI|Methode Electronics, Inc. Common Stock|N|MEI|N|100|N|MEI
 MEN|Blackrock MuniEnhanced Fund, Inc Common Stock|N|MEN|N|100|N|MEN
 MER$K|Bank of America Corporation Income Capital Obligation Notes initially due December 15, 2066|N|MERpK|N|100|N|MER-K
@@ -3135,6 +3135,7 @@ MMD|MainStay MacKay DefinedTerm Municipal Opportunities Fund|N|MMD|N|100|N|MMD
 MMI|Marcus & Millichap, Inc. Common Stock|N|MMI|N|100|N|MMI
 MMIN|IQ MacKay Municipal Insured ETF |P|MMIN|Y|100|N|MMIN
 MMIT|IQ MacKay Municipal Intermediate ETF|P|MMIT|Y|100|N|MMIT
+MMLG|First Trust Multi-Manager Large Growth ETF|P|MMLG|Y|100|N|MMLG
 MMM|3M Company Common Stock|N|MMM|N|100|N|MMM
 MMP|Magellan Midstream Partners L.P. Limited Partnership|N|MMP|N|100|N|MMP
 MMS|Maximus, Inc. Common Stock|N|MMS|N|100|N|MMS
@@ -3483,6 +3484,7 @@ NVST|Envista Holdings Corporation Common Stock|N|NVST|N|100|N|NVST
 NVT|nVent Electric plc Ordinary Shares |N|NVT|N|100|N|NVT
 NVTA|Invitae Corporation Common Stock|N|NVTA|N|100|N|NVTA
 NWE|NorthWestern Corporation Common Stock|N|NWE|N|100|N|NWE
+NWG|NatWest Group plc American Depositary Shares|N|NWG|N|100|N|NWG
 NWHM|New Home Company Inc. (The) Common Stock|N|NWHM|N|100|N|NWHM
 NWN|Northwest Natural Holding Company Common Stock|N|NWN|N|100|N|NWN
 NX|Quanex Building Products Corporation Common Stock|N|NX|N|100|N|NX
@@ -3867,6 +3869,7 @@ PSQ|ProShares Short QQQ|P|PSQ|Y|100|N|PSQ
 PSR|Invesco Active U.S. Real Estate Fund|P|PSR|Y|100|N|PSR
 PST|ProShares UltraShort Lehman 7-10 Year Treasury|P|PST|Y|100|N|PST
 PSTG|Pure Storage, Inc. Class A Common Stock|N|PSTG|N|100|N|PSTG
+PSTH.U|Pershing Square Tontine Holdings, Ltd. Units, each consisting of one share of Class A Common Stock and one-ninth of one Warrant to purchase one share of Class A Common Stock|N|PSTH.U|N|100|N|PSTH=
 PSTL|Postal Realty Trust, Inc. Class A Common Stock|N|PSTL|N|100|N|PSTL
 PSV|Hermitage Offshore Services Ltd. Ordinary Shares (Bermuda)|N|PSV|N|100|N|PSV
 PSX|Phillips 66 Common Stock|N|PSX|N|100|N|PSX
@@ -3973,7 +3976,6 @@ RAVI|FlexShares Ready Access Variable Income Fund|P|RAVI|Y|100|N|RAVI
 RBA|Ritchie Bros. Auctioneers Incorporated Common Stock|N|RBA|N|100|N|RBA
 RBC|Regal Beloit Corporation Common Stock|N|RBC|N|100|N|RBC
 RBIN|Nationwide Risk-Based International Equity ETF|P|RBIN|Y|100|N|RBIN
-RBS|Royal Bank of Scotland Group Plc New (The) ADS|N|RBS|N|100|N|RBS
 RBUS|Nationwide Risk-Based U.S. Equity ETF|P|RBUS|Y|100|N|RBUS
 RC|Ready Capital Corproation Common Stock|N|RC|N|100|N|RC
 RCA|Ready Capital Corporation 7.00% Convertible Senior Notes due 2023|N|RCA|N|100|N|RCA
@@ -5038,7 +5040,7 @@ VGM|Invesco Trust for Investment Grade Municipals Common Stock (DE)|N|VGM|N|100|
 VGR|Vector Group Ltd. Common Stock|N|VGR|N|100|N|VGR
 VGT|Vanguard Information Tech ETF|P|VGT|Y|100|N|VGT
 VGZ|Vista Gold Corp Common Stock|A|VGZ|N|100|N|VGZ
-VHC|VirnetX Holding Corp Common Stock|A|VHC|N|100|N|VHC
+VHC|VirnetX Holding Corp Common Stock|N|VHC|N|100|N|VHC
 VHI|Valhi, Inc. Common Stock|N|VHI|N|100|N|VHI
 VHT|Vanguard Health Care ETF|P|VHT|Y|100|N|VHT
 VICI|VICI Properties Inc. Common Stock|N|VICI|N|100|N|VICI
@@ -5364,4 +5366,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0721202015:41||||||
+File Creation Time: 0723202021:31||||||

@@ -126,4 +126,4 @@ print("Run time: " + str(round(end - start, 2))+" seconds")
 
 plt.show()
 
-plt.savefig(datetime.today().strftime('"%m-%d-%Y"')+'.png')
+plt.figure(1).savefig(datetime.today().strftime('"%m-%d-%Y"')+'.png')

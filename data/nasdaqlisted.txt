@@ -84,7 +84,7 @@ AGFS|AgroFresh Solutions, Inc. - Common Stock|Q|N|N|100|N|N
 AGFSW|AgroFresh Solutions, Inc. - Warrants|Q|N|N|100|N|N
 AGIO|Agios Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 AGLE|Aeglea BioTherapeutics, Inc. - Common Stock|G|N|N|100|N|N
-AGMH|AGM Group Holdings Inc. - Class A Ordinary Shares|S|N|D|100|N|N
+AGMH|AGM Group Holdings Inc. - Class A Ordinary Shares|S|N|N|100|N|N
 AGNC|AGNC Investment Corp. - Common Stock|Q|N|N|100|N|N
 AGNCM|AGNC Investment Corp. - Depositary Shares rep 6.875% Series D Fixed-to-Floating Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
 AGNCN|AGNC Investment Corp. - Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
@@ -463,7 +463,10 @@ BRID|Bridgford Foods Corporation - Common Stock|G|N|N|100|N|N
 BRKL|Brookline Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
 BRKR|Bruker Corporation - Common Stock|Q|N|N|100|N|N
 BRKS|Brooks Automation, Inc. - Common Stock|Q|N|N|100|N|N
+BRLI|Brilliant Acquisition Corporation - Ordinary Shares|S|N|N|100|N|N
+BRLIR|Brilliant Acquisition Corporation - Rights|S|N|N|100|N|N
 BRLIU|Brilliant Acquisition Corporation - Unit|S|N|N|100|N|N
+BRLIW|Brilliant Acquisition Corporation - Warrants|S|N|N|100|N|N
 BROG|Brooge Energy Limited  - Ordinary Shares|S|N|N|100|N|N
 BROGW|Brooge Energy Limited  - Warrant|S|N|N|100|N|N
 BRP|BRP Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
@@ -981,7 +984,7 @@ DYNT|Dynatronics Corporation - Common Stock|S|N|D|100|N|N
 DZSI|DASAN Zhone Solutions, Inc. - Common Stock|S|N|N|100|N|N
 EA|Electronic Arts Inc. - Common Stock|Q|N|N|100|N|N
 EARS|Auris Medical Holding Ltd. - Common Shares|S|N|D|100|N|N
-EAST|Eastside Distilling, Inc. - Common Stock|S|N|N|100|N|N
+EAST|Eastside Distilling, Inc. - Common Stock|S|N|D|100|N|N
 EBAY|eBay Inc. - Common Stock|Q|N|N|100|N|N
 EBAYL|eBay Inc. - 6.0% Notes Due 2056|Q|N|N|100|N|N
 EBIX|Ebix, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1001,6 +1004,7 @@ EDIT|Editas Medicine, Inc. - Common Stock|Q|N|N|100|N|N
 EDNT|Edison Nation, Inc. - Common Stock|S|N|N|100|N|N
 EDRY|EuroDry Ltd. - Common Shares|S|N|N|100|N|N
 EDSA|Edesa Biotech, Inc. - Common Shares|S|N|N|100|N|N
+EDTK|Skillful Craftsman Education Technology Limited - Ordinary Share|S|N|N|100|N|N
 EDUC|Educational Development Corporation - Common Stock|G|N|N|100|N|N
 EDUT|Global X Education ETF|G|N|N|100|Y|N
 EEFT|Euronet Worldwide, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1050,6 +1054,7 @@ EQ|Equillium, Inc. - Common Stock|G|N|N|100|N|N
 EQBK|Equity Bancshares, Inc. - Class A Common Stock|Q|N|N|100|N|N
 EQIX|Equinix, Inc. - Common Stock|Q|N|N|100|N|N
 EQRR|ProShares Equities for Rising Rates ETF|G|N|N|100|Y|N
+ERESU|East Resources Acquisition Company - Unit|S|N|N|100|N|N
 ERIC|Ericsson - American Depositary Shares each representing 1 underlying Class B share|Q|N|N|100|N|N
 ERIE|Erie Indemnity Company - Class A Common Stock|Q|N|N|100|N|N
 ERII|Energy Recovery, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1752,7 +1757,7 @@ ITI|Iteris, Inc. - Common Stock|S|N|N|100|N|N
 ITIC|Investors Title Company - Common Stock|Q|N|N|100|N|N
 ITMR|Itamar Medical Ltd. - American Depository Shares|S|N|N|100|N|N
 ITRI|Itron, Inc. - Common Stock|Q|N|N|100|N|N
-ITRM|Iterum Therapeutics plc - Ordinary Share|G|N|N|100|N|N
+ITRM|Iterum Therapeutics plc - Ordinary Share|G|N|D|100|N|N
 ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100|N|N
 IUS|Invesco RAFI Strategic US ETF|G|N|N|100|Y|N
 IUSB|iShares Core Total USD Bond Market ETF|G|N|N|100|Y|N
@@ -1766,6 +1771,7 @@ IZEA|IZEA Worldwide, Inc. - Common Stock|S|N|N|100|N|N
 JACK|Jack In The Box Inc. - Common Stock|Q|N|N|100|N|N
 JAGX|Jaguar Health, Inc. - Common Stock|S|N|D|100|N|N
 JAKK|JAKKS Pacific, Inc. - Common Stock|Q|N|D|100|N|N
+JAMF|Jamf Holding Corp. - Common Stock|Q|N|N|100|N|N
 JAN|JanOne Inc. - Common Stock|S|N|N|100|N|N
 JAZZ|Jazz Pharmaceuticals plc - Ordinary Shares|Q|N|N|100|N|N
 JBHT|J.B. Hunt Transport Services, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2303,7 +2309,7 @@ NVMI|Nova Measuring Instruments Ltd. - Ordinary Shares|Q|N|N|100|N|N
 NVUS|Novus Therapeutics, Inc. - Common Stock|S|N|D|100|N|N
 NWBI|Northwest Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 NWFL|Norwood Financial Corp. - Common Stock|G|N|N|100|N|N
-NWGI|Newgioco Group, Inc. - Common Stock|S|N|E|100|N|N
+NWGI|Newgioco Group, Inc. - Common Stock|S|N|N|100|N|N
 NWL|Newell Brands Inc. - Common Stock|Q|N|N|100|N|N
 NWLI|National Western Life Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 NWPX|Northwest Pipe Company - Common Stock|Q|N|N|100|N|N
@@ -2605,6 +2611,7 @@ PRTS|U.S. Auto Parts Network, Inc. - Common Stock|Q|N|N|100|N|N
 PRVB|Provention Bio, Inc. - Common Stock|Q|N|N|100|N|N
 PRVL|Prevail Therapeutics Inc. - common stock|G|N|N|100|N|N
 PS|Pluralsight, Inc. - Class A Common Stock|Q|N|N|100|N|N
+PSACU|Property Solutions Acquisition Corp. - Unit|S|N|N|100|N|N
 PSC|Principal U.S. Small-Cap Multi-Factor Index ETF|G|N|N|100|Y|N
 PSCC|Invesco S&P SmallCap Consumer Staples ETF|G|N|N|100|Y|N
 PSCD|Invesco S&P SmallCap Consumer Discretionary ETF|G|N|N|100|Y|N
@@ -2809,7 +2816,6 @@ RRGB|Red Robin Gourmet Burgers, Inc. - Common Stock|Q|N|N|100|N|N
 RRR|Red Rock Resorts, Inc. - Class A Common Stock|Q|N|N|100|N|N
 RSSS|Research Solutions, Inc - Common Stock|S|N|N|100|N|N
 RTH|VanEck Vectors Retail ETF|G|N|N|100|Y|N
-RTIX|RTI Surgical Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 RTLR|Rattler Midstream LP - Common Units Representing Limited Partnership Interests|Q|N|N|100|N|N
 RTRX|Retrophin, Inc. - Common Stock|G|N|N|100|N|N
 RUBY|Rubius Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
@@ -2927,7 +2933,7 @@ SILC|Silicom Ltd - Ordinary Shares|Q|N|N|100|N|N
 SILK|Silk Road Medical, Inc. - Common Stock|Q|N|N|100|N|N
 SIMO|Silicon Motion Technology Corporation - American Depositary Shares, each representing four ordinary shares|Q|N|N|100|N|N
 SINA|Sina Corporation - Ordinary Shares|Q|N|N|100|N|N
-SINO|Sino-Global Shipping America, Ltd. - Common Stock|S|N|D|100|N|N
+SINO|Sino-Global Shipping America, Ltd. - Common Stock|S|N|N|100|N|N
 SINT|SiNtx Technologies, Inc. - Common Stock|S|N|N|100|N|N
 SIRI|Sirius XM Holdings Inc. - Common Stock|Q|N|N|100|N|N
 SITM|SiTime Corporation - Common Stock|G|N|N|100|N|N
@@ -3034,6 +3040,7 @@ SRCL|Stericycle, Inc. - Common Stock|Q|N|N|100|N|N
 SRDX|Surmodics, Inc. - Common Stock|Q|N|N|100|N|N
 SRET|Global X SuperDividend REIT ETF|G|N|N|100|Y|N
 SREV|ServiceSource International, Inc. - Common Stock|Q|N|N|100|N|N
+SRGA|Surgalign Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 SRNE|Sorrento Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 SRPT|Sarepta Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 SRRA|Sierra Oncology, Inc. - Common Stock|G|N|N|100|N|N
@@ -3576,4 +3583,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0721202015:41|||||||
+File Creation Time: 0723202021:31|||||||
