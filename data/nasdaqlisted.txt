@@ -200,6 +200,7 @@ ANGO|AngioDynamics, Inc. - Common Stock|Q|N|N|100|N|N
 ANIK|Anika Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
 ANIP|ANI Pharmaceuticals, Inc. - Common Stock|G|N|D|100|N|N
 ANIX|Anixa Biosciences, Inc. - Common Stock|S|N|N|100|N|N
+ANNX|Annexon, Inc. - common stock|Q|N|N|100|N|N
 ANPC|AnPac Bio-Medical Science Co., Ltd. - American Depositary Shares|G|N|N|100|N|N
 ANSS|ANSYS, Inc. - Common Stock|Q|N|N|100|N|N
 ANTE|AirNet Technology Inc. - American Depositary Shares, each representing ten ordinary shares|S|N|H|100|N|N
@@ -225,7 +226,7 @@ APRE|Aprea Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 APTO|Aptose Biosciences, Inc. - Common Shares|S|N|N|100|N|N
 APTX|Aptinyx Inc. - Common Stock|Q|N|N|100|N|N
 APVO|Aptevo Therapeutics Inc. - Common Stock|S|N|N|100|N|N
-APWC|Asia Pacific Wire & Cable Corporation Limited - Common shares, Par value .01 per share|G|N|D|100|N|N
+APWC|Asia Pacific Wire  - Common shares, Par value .01 per share|S|N|D|100|N|N
 APXT|Apex Technology Acquisition Corporation - Class A Common Stock|S|N|N|100|N|N
 APXTU|Apex Technology Acquisition Corporation - Unit|S|N|N|100|N|N
 APXTW|Apex Technology Acquisition Corporation - Warrant|S|N|N|100|N|N
@@ -444,7 +445,7 @@ BOOM|DMC Global Inc. - Common Stock|Q|N|N|100|N|N
 BOSC|B.O.S. Better Online Solutions - Ordinary Shares|S|N|N|100|N|N
 BOTJ|Bank of the James Financial Group, Inc. - Common Stock|S|N|N|100|N|N
 BOTZ|Global X Robotics & Artificial Intelligence ETF|G|N|N|100|Y|N
-BOXL|Boxlight Corporation - Class A Common Stock|S|N|D|100|N|N
+BOXL|Boxlight Corporation - Class A Common Stock|S|N|N|100|N|N
 BPFH|Boston Private Financial Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 BPMC|Blueprint Medicines Corporation - Common Stock|Q|N|N|100|N|N
 BPOP|Popular, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1435,6 +1436,7 @@ GPP|Green Plains Partners LP - Common Units|G|N|N|100|N|N
 GPRE|Green Plains, Inc. - Common Stock|Q|N|N|100|N|N
 GPRO|GoPro, Inc. - Class A Common Stock|Q|N|N|100|N|N
 GRBK|Green Brick Partners, Inc. - Common Stock|S|N|N|100|N|N
+GRCYU|Greencity Acquisition Corporation - Unit|S|N|N|100|N|N
 GRFS|Grifols, S.A. - American Depositary Shares|Q|N|N|100|N|N
 GRID|First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund|G|N|N|100|Y|N
 GRIF|Griffin Industrial Realty, Inc. - Common Stock|G|N|N|100|N|N
@@ -1573,7 +1575,7 @@ HSTM|HealthStream, Inc. - Common Stock|Q|N|N|100|N|N
 HSTO|Histogen Inc. - Common Stock|S|N|N|100|N|N
 HTBI|HomeTrust Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 HTBK|Heritage Commerce Corp - Common Stock|Q|N|N|100|N|N
-HTBX|Heat Biologics, Inc. - Common Stock|S|N|D|100|N|N
+HTBX|Heat Biologics, Inc. - Common Stock|S|N|N|100|N|N
 HTGM|HTG Molecular Diagnostics, Inc. - Common Stock|S|N|D|100|N|N
 HTHT|Huazhu Group Limited - American Depositary Shares, each representing one Ordinary Share|Q|N|N|100|N|N
 HTIA|Healthcare Trust, Inc. - 7.375% Series A Cumulative Redeemable Perpetual Preferred Stock|G|N|N|100|N|N
@@ -1721,6 +1723,7 @@ INTU|Intuit Inc. - Common Stock|Q|N|N|100|N|N
 INVA|Innoviva, Inc. - Common Stock|Q|N|N|100|N|N
 INVE|Identiv, Inc. - Common Stock|S|N|N|100|N|N
 INWK|InnerWorkings, Inc. - Common Stock|Q|N|N|100|N|N
+INZY|Inozyme Pharma, Inc. - Common Stock|Q|N|N|100|N|N
 IONS|Ionis Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 IOSP|Innospec Inc. - Common Stock|Q|N|N|100|N|N
 IOVA|Iovance Biotherapeutics, Inc. - Common Stock|G|N|N|100|N|N
@@ -1756,6 +1759,7 @@ ITCI|Intra-Cellular Therapies Inc. - Common Stock|Q|N|N|100|N|N
 ITI|Iteris, Inc. - Common Stock|S|N|N|100|N|N
 ITIC|Investors Title Company - Common Stock|Q|N|N|100|N|N
 ITMR|Itamar Medical Ltd. - American Depository Shares|S|N|N|100|N|N
+ITOS|iTeos Therapeutics, Inc. - Common Stock|G|N|N|100|N|N
 ITRI|Itron, Inc. - Common Stock|Q|N|N|100|N|N
 ITRM|Iterum Therapeutics plc - Ordinary Share|G|N|D|100|N|N
 ITRN|Ituran Location and Control Ltd. - Ordinary Shares|Q|N|N|100|N|N
@@ -2274,6 +2278,7 @@ NPAWW|New Providence Acquisition Corp. - Warrant|S|N|N|100|N|N
 NRBO|NeuroBo Pharmaceuticals, Inc. - Common Stock|S|N|N|100|N|N
 NRC|National Research Corporation - Common Stock|Q|N|N|100|N|N
 NRIM|Northrim BanCorp Inc - Common Stock|Q|N|N|100|N|N
+NRIX|Nurix Therapeutics, Inc. - Common stock|G|N|N|100|N|N
 NSEC|National Security Group, Inc. - Common Stock|G|N|N|100|N|N
 NSIT|Insight Enterprises, Inc. - Common Stock|Q|N|N|100|N|N
 NSSC|NAPCO Security Technologies, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3583,4 +3588,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0723202021:31|||||||
+File Creation Time: 0724202021:32|||||||

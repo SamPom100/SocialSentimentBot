@@ -33,6 +33,7 @@ ACI|Albertsons Companies, Inc. Class A Common Stock|N|ACI|N|100|N|ACI
 ACIO|ETF Series Solutions Aptus Collared Income Opportunity ETF|Z|ACIO|Y|100|N|ACIO
 ACM|AECOM Common Stock|N|ACM|N|100|N|ACM
 ACN|Accenture plc Class A Ordinary Shares (Ireland)|N|ACN|N|100|N|ACN
+ACND.U|Ascendant Digital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warrant|N|ACND.U|N|100|N|ACND=
 ACP|Aberdeen Income Credit Strategies Fund Common Shares|N|ACP|N|100|N|ACP
 ACRE|Ares Commercial Real Estate Corporation Common Stock|N|ACRE|N|100|N|ACRE
 ACSG|Xtrackers MSCI ACWI ex USA ESG Leaders Equity ETF|P|ACSG|Y|100|N|ACSG
@@ -463,6 +464,8 @@ BEDU|Bright Scholar Education Holdings Limited American Depositary Shares, each 
 BEN|Franklin Resources, Inc. Common Stock|N|BEN|N|100|N|BEN
 BEP|Brookfield Renewable Partners L.P. |N|BEP|N|100|N|BEP
 BEP$A|Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17|N|BEPpA|N|100|N|BEP-A
+BEP.V|Brookfield Renewable Partners L.P. Limited Partnership Units Ex-Distribution When Issued|N|BEPw|N|100|N|BEP#
+BEPC.V|Brookfield Renewable Corporation Class A Subordinate Voting Shares When Issued|N|BEPCw|N|100|N|BEPC#
 BERY|Berry Global Group, Inc. Common Stock|N|BERY|N|100|N|BERY
 BEST|BEST Inc. American Depositary Shares, each representing one Class A Ordinary Share|N|BEST|N|100|N|BEST
 BETZ|Roundhill Sports Betting & iGaming ETF|P|BETZ|Y|100|N|BETZ
@@ -1942,8 +1945,10 @@ GAZ|Barclays Bank PLC iPath Series B Bloomberg Natural Gas Subindex Total Return
 GBAB|Guggenheim Taxable Municipal Managed Duration Trust Common Shares of Beneficial Interest|N|GBAB|N|100|N|GBAB
 GBDV|Global Beta ETF Trust Global Beta Smart Income ETF|P|GBDV|Y|100|N|GBDV
 GBF|iShares Government/Credit Bond ETF|P|GBF|Y|100|N|GBF
+GBGR|Global Beta Momentum-Growth ETF|P|GBGR|Y|100|N|GBGR
 GBIL|Goldman Sachs Access Treasury 0-1 Year ETF|P|GBIL|Y|100|N|GBIL
 GBL|Gamco Investors, Inc. Common Stock|N|GBL|N|100|N|GBL
+GBLO|Global Beta Low Beta ETF|P|GBLO|Y|100|N|GBLO
 GBR|New Concept Energy, Inc Common Stock|A|GBR|N|100|N|GBR
 GBUG|iPath Gold ETN|P|GBUG|Y|100|N|GBUG
 GBUY|Goldman Sachs New Age Consumer ETF|P|GBUY|Y|100|N|GBUY
@@ -5366,4 +5371,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0723202021:31||||||
+File Creation Time: 0724202021:32||||||
