@@ -73,7 +73,7 @@ colors = ['springgreen', 'lightcoral']
 plt.figure(0)
 plt.pie(slices, labels=names, colors=colors, autopct='%1.1f%%',
         shadow=True, startangle=90, textprops={'fontsize': 17, 'weight': 'bold'})
-# plt.title('Calls or Puts')
+plt.title('Calls vs. Puts')
 
 print(spacer)
 
@@ -105,8 +105,8 @@ mainFrame.columns = ['Ticker', 'Frequency']
 # temp = mainFrame.plot(kind='bar', x='Ticker', y='Frequency')
 
 plt.figure(1)
-#dateformat = date.today().strftime("%B %d, %Y")
-dateformat = "July 24, 2020"
+dateformat = date.today().strftime("%B %d, %Y")
+#dateformat = "July 24, 2020"
 ax = sb.barplot(x='Ticker', y='Frequency', data=mainFrame)
 plt.title("WSB DAILY: THE MOST POPULAR TICKERS ON R/WSB TODAY", fontsize=20)
 annotation = ('--------- Summary ---------\n'+sentiment + '\nCalls: '+str(callCount)+'\nPuts: '+str(putCount)+'\nAutist Count: ' +
