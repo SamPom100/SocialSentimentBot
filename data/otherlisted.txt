@@ -3415,6 +3415,7 @@ NPV|Nuveen Virginia Quality Municipal Income Fund Common Stock|N|NPV|N|100|N|NPV
 NQP|Nuveen Pennsylvania Quality Municipal Income Fund Common Stock|N|NQP|N|100|N|NQP
 NR|Newpark Resources, Inc. Common Stock|N|NR|N|100|N|NR
 NREF|NexPoint Real Estate Finance, Inc. Common Stock|N|NREF|N|100|N|NREF
+NREF$A|NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock|N|NREFpA|N|100|N|NREF-A
 NRG|NRG Energy, Inc. Common Stock|N|NRG|N|100|N|NRG
 NRGD|MicroSectors U.S. Big Oil Index -3X Inverse Leveraged ETN|P|NRGD|N|100|N|NRGD
 NRGO|MicroSectors U.S. Big Oil Index 2X Leveraged ETN|P|NRGO|N|100|N|NRGO
@@ -5371,4 +5372,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0724202021:32||||||
+File Creation Time: 0727202017:02||||||
