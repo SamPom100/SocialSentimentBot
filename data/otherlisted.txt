@@ -1378,6 +1378,7 @@ EFC|Ellington Financial Inc. Common Stock |N|EFC|N|100|N|EFC
 EFC$A|Ellington Financial Inc. 6.750% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|N|EFCpA|N|100|N|EFC-A
 EFF|Eaton vance Floating-Rate Income Plus Fund Common Shares of Beneficial Interest|N|EFF|N|100|N|EFF
 EFG|iShares MSCI EAFE Growth ETF|Z|EFG|Y|100|N|EFG
+EFIV|SPDR S&P 500 ESG ETF|P|EFIV|Y|100|N|EFIV
 EFL|Eaton Vance Floating-Rate 2022 Target Term Trust Common Shares of Beneficial Interest|N|EFL|N|100|N|EFL
 EFNL|iShares Inc iShares MSCI Finland ETF|Z|EFNL|Y|100|N|EFNL
 EFO|ProShares Ultra MSCI EAFE|P|EFO|Y|100|N|EFO
@@ -1389,7 +1390,6 @@ EFX|Equifax, Inc. Common Stock|N|EFX|N|100|N|EFX
 EFZ|ProShares Short MSCI EAFE|P|EFZ|Y|100|N|EFZ
 EGF|Blackrock Enhanced Government Fund, Inc. Common Stock|N|EGF|N|100|N|EGF
 EGHT|8x8 Inc Common Stock|N|EGHT|N|100|N|EGHT
-EGIF|Eagle Growth and Income Opportunities Fund Common Shares of Beneficial Interest|N|EGIF|N|100|N|EGIF
 EGO|Eldorado Gold Corporation Ordinary Shares|N|EGO|N|100|N|EGO
 EGP|EastGroup Properties, Inc. Common Stock|N|EGP|N|100|N|EGP
 EGPT|VanEck Vectors Egypt Index ETF|P|EGPT|Y|100|N|EGPT
@@ -3935,7 +3935,6 @@ QED|IQ Hedge Event-Driven Tracker ETF|P|QED|Y|100|N|QED
 QEFA|SPDR MSCI EAFE StrategicFactors ETF|P|QEFA|Y|100|N|QEFA
 QEMM|SPDR MSCI Emerging Markets StrategicFactors ETF|P|QEMM|Y|100|N|QEMM
 QEP|QEP Resources, Inc. Common Stock|N|QEP|N|100|N|QEP
-QES|Quintana Energy Services Inc. Common Stock|N|QES|N|100|N|QES
 QGEN|Qiagen N.V. Common Shares |N|QGEN|N|100|N|QGEN
 QGRO|American Century STOXX U.S. Quality Growth ETF|P|QGRO|Y|100|N|QGRO
 QGTA|IQ Leaders GTAA Tracker ETF|P|QGTA|Y|100|N|QGTA
@@ -5372,4 +5371,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0727202017:02||||||
+File Creation Time: 0728202015:41||||||
