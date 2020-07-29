@@ -1470,7 +1470,7 @@ GTIM|Good Times Restaurants Inc. - Common Stock|S|N|N|100|N|N
 GTLS|Chart Industries, Inc. - Common Stock|Q|N|N|100|N|N
 GTYH|GTY Technology Holdings, Inc. - Common Stock|S|N|N|100|N|N
 GURE|Gulf Resources, Inc. - Common Stock|Q|N|N|100|N|N
-GVP|GSE Systems, Inc. - Common Stock|S|N|E|100|N|N
+GVP|GSE Systems, Inc. - Common Stock|S|N|N|100|N|N
 GWGH|GWG Holdings, Inc - Common Stock|S|N|N|100|N|N
 GWPH|GW Pharmaceuticals Plc - American Depositary Shares|G|N|N|100|N|N
 GWRS|Global Water Resources, Inc. - common stock|G|N|N|100|N|N
@@ -3257,7 +3257,6 @@ TTGT|TechTarget, Inc. - Common Stock|G|N|N|100|N|N
 TTMI|TTM Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 TTNP|Titan Pharmaceuticals, Inc. - Common Stock|S|N|D|100|N|N
 TTOO|T2 Biosystems, Inc. - Common Stock|G|N|N|100|N|N
-TTPH|Tetraphase Pharmaceuticals, Inc. - Common Stock|Q|N|N|100|N|N
 TTTN|UP Fintech China-U.S. Internet Titans ETF|G|N|N|100|Y|N
 TTWO|Take-Two Interactive Software, Inc. - Common Stock|Q|N|N|100|N|N
 TUR|iShares MSCI Turkey ETF|G|N|N|100|Y|N
@@ -3359,6 +3358,7 @@ VERBW|Verb Technology Company, Inc. - Warrant|S|N|N|100|N|N
 VERI|Veritone, Inc. - Common Stock|G|N|N|100|N|N
 VERO|Venus Concept Inc.  - Common Stock|G|N|N|100|N|N
 VERU|Veru Inc. - Common Stock|S|N|N|100|N|N
+VERX|Vertex, Inc. - Class A Common Stock|G|N|N|100|N|N
 VERY|Vericity, Inc. - Common Stock|S|N|N|100|N|N
 VETS|Pacer Military Times Best Employers ETF|G|N|N|100|Y|N
 VFF|Village Farms International, Inc. - Common Shares|S|N|N|100|N|N
@@ -3463,7 +3463,7 @@ WIMI|WiMi Hologram Cloud Inc. - American Depositary Share|G|N|N|100|N|N
 WINA|Winmark Corporation - Common Stock|G|N|N|100|N|N
 WINC|Western Asset Short Duration Income ETF|G|N|N|100|Y|N
 WING|Wingstop Inc. - Common Stock|Q|N|N|100|N|N
-WINS|Wins Finance Holdings Inc. - Ordinary Shares (Cayman Islands)|S|N|H|100|N|N
+WINS|Wins Finance Holdings Inc. - Ordinary Shares (Cayman Islands)|S|N|E|100|N|N
 WINT|Windtree Therapeutics, Inc. - Common Stock|S|N|N|100|N|N
 WIRE|Encore Wire Corporation - Common Stock|Q|N|N|100|N|N
 WISA|Summit Wireless Technologies, Inc. - Common Stock|S|N|N|100|N|N
@@ -3487,7 +3487,7 @@ WSC|WillScot Mobile Mini Holdings Corp. - Class A Common Stock|S|N|N|100|N|N
 WSFS|WSFS Financial Corporation - Common Stock|Q|N|N|100|N|N
 WSG|Wanda Sports Group Company Limited - American Depositary Shares|Q|N|N|100|N|N
 WSTG|Wayside Technology Group, Inc. - Common Stock|G|N|N|100|N|N
-WSTL|Westell Technologies, Inc. - Class A Common Stock|S|N|D|100|N|N
+WSTL|Westell Technologies, Inc. - Class A Common Stock|S|N|N|100|N|N
 WTBA|West Bancorporation - Common Stock|Q|N|N|100|N|N
 WTER|The Alkaline Water Company Inc. - Common Stock|S|N|N|100|N|N
 WTFC|Wintrust Financial Corporation - Common Stock|Q|N|N|100|N|N
@@ -3587,4 +3587,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0728202015:41|||||||
+File Creation Time: 0729202018:01|||||||

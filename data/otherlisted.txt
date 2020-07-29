@@ -288,6 +288,7 @@ ASB$F|Associated Banc-Corp Depositary Shares, each representing a 1/40th interes
 ASC|Ardmore Shipping Corporation Common Stock|N|ASC|N|100|N|ASC
 ASEA|Global X FTSE Southeast Asia ETF|P|ASEA|Y|100|N|ASEA
 ASG|Liberty All-Star Growth Fund, Inc.|N|ASG|N|100|N|ASG
+ASGI|Aberdeen Standard Global Infrastructure Income Fund Common Shares of Beneficial Interest|N|ASGI|N|100|N|ASGI
 ASGN|ASGN Incorporated Common Stock|N|ASGN|N|100|N|ASGN
 ASH|Ashland Global Holdings Inc. Common Stock|N|ASH|N|100|N|ASH
 ASHR|Xtrackers Harvest CSI 300 China A-Shares ETF|P|ASHR|Y|100|N|ASHR
@@ -2804,6 +2805,7 @@ KEMQ|KraneShares Emerging Markets Consumer Technology Index ETF|P|KEMQ|Y|100|N|K
 KEMX|KraneShares MSCI Emerging Markets ex China Index ETF|P|KEMX|Y|100|N|KEMX
 KEN|Kenon Holdings Ltd. Ordinary Shares|N|KEN|N|100|N|KEN
 KEP|Korea Electric Power Corporation Common Stock|N|KEP|N|100|N|KEP
+KESG|KraneShares MSCI China ESG Leaders Index ETF|P|KESG|Y|100|N|KESG
 KEX|Kirby Corporation Common Stock|N|KEX|N|100|N|KEX
 KEY|KeyCorp Common Stock|N|KEY|N|100|N|KEY
 KEY$I|KeyCorp Depositary Shares Each Representing a 1/40th Ownership Interest in a Share of Fixed-to-Floating Rate Perpetual Non-Cumulative Preferred Stock, Series E|N|KEYpI|N|100|N|KEY-I
@@ -3542,10 +3544,10 @@ OIA|Invesco Municipal Income Opportunities Trust Common Stock|N|OIA|N|100|N|OIA
 OIBR.C|Oi S.A. American Depositary Shares, (Each representing 1 Common Share)|N|OIBR.C|N|100|N|OIBR.C
 OIH|VanEck Vectors Oil Services ETF|P|OIH|Y|100|N|OIH
 OII|Oceaneering International, Inc. Common Stock|N|OII|N|100|N|OII
+OIL|iPath Pure Beta Crude Oil ETN|P|OIL|N|100|N|OIL
 OILK|ProShares K-1 Free Crude Oil Strategy ETF|Z|OILK|Y|100|N|OILK
 OIS|Oil States International, Inc. Common Stock|N|OIS|N|100|N|OIS
 OKE|ONEOK, Inc. Common Stock|N|OKE|N|100|N|OKE
-OLEM|iPath Pure Beta Crude Oil ETN|P|OLEM|N|100|N|OLEM
 OLN|Olin Corporation Common Stock|N|OLN|N|100|N|OLN
 OLP|One Liberty Properties, Inc. Common Stock|N|OLP|N|100|N|OLP
 OMC|Omnicom Group Inc. Common Stock|N|OMC|N|100|N|OMC
@@ -5371,4 +5373,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0728202015:41||||||
+File Creation Time: 0729202018:01||||||
