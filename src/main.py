@@ -47,11 +47,9 @@ for submission in subreddit.hot(limit=20):  # .hot, .new
 print("Analyzing")
 print(spacer)
 
-autistCount = sum('AUTIST' in s for s in masterSET)
 callCount = sum('CALL' in s for s in masterSET)
 putCount = sum('PUT' in s for s in masterSET)
 
-print("Autist Count: " + str(autistCount))
 print("Call Count: " + str(callCount))
 print("Put Count: " + str(putCount))
 print("Total Comments Analyzed: "+str(commentCounter))
@@ -109,8 +107,8 @@ dateformat = date.today().strftime("%B %d, %Y")
 #dateformat = "July 24, 2020"
 ax = sb.barplot(x='Ticker', y='Frequency', data=mainFrame)
 plt.title("WSB DAILY: THE MOST POPULAR TICKERS ON R/WSB TODAY", fontsize=20)
-annotation = ('--------- Summary ---------\n'+sentiment + '\nCalls: '+str(callCount)+'\nPuts: '+str(putCount)+'\nAutist Count: ' +
-              str(autistCount)+'\nAnalyzed '+str(commentCounter)+' comments'+'\nToday is: '+dateformat+'\n---------------------------')
+annotation = ('--------- Summary ---------\n'+sentiment + '\nCalls: '+str(callCount)+'\nPuts: '+str(putCount) +
+              '\nAnalyzed '+str(commentCounter)+' comments'+'\nToday is: '+dateformat+'\n---------------------------')
 
 plt.text(0.9, 0.5, annotation,
          horizontalalignment='center',
