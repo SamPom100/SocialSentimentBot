@@ -126,7 +126,7 @@ def main():
     print("Run time: " + str(round(end - start, 2))+" seconds")
     fileTitle = datetime.today().strftime('"%m-%d-%Y"')+'.png'
     plt.savefig('history/'+fileTitle.strip('"'))
-    # plt.show()
+    plt.show()
 
 
 print("Starting Sentiment Bot")
