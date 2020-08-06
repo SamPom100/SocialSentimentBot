@@ -33,7 +33,7 @@ def main():
     masterSET = []
 
     commentCounter = 0
-    toolbar_width = 30
+    toolbar_width = 25
     # setup toolbar
     sys.stdout.write("[%s]" % (" " * toolbar_width))
     sys.stdout.flush()
