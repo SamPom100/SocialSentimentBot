@@ -10,6 +10,9 @@ import pandas as pd
 import seaborn as sb
 from stocklist import NasdaqController
 import os
+from tqdm import tqdm
+import time
+import sys
 
 
 def main():
@@ -24,28 +27,32 @@ def main():
     subreddit = reddit.subreddit("wallstreetbets")
 
     print("Accessing: " + subreddit.display_name.upper())
-
-    print(spacer)
-
     print("Getting posts / comments from " +
           subreddit.display_name.upper())
     print(spacer)
     masterSET = []
 
     commentCounter = 0
+    toolbar_width = 30
+    # setup toolbar
+    sys.stdout.write("[%s]" % (" " * toolbar_width))
+    sys.stdout.flush()
+    # return to start of line, after '['
+    sys.stdout.write("\b" * (toolbar_width+1))
 
-    for submission in subreddit.hot(limit=20):  # .hot, .new
+    for submission in subreddit.hot(limit=25):  # .hot, .new
         for sub in submission.title.upper().split(" "):
             masterSET.append(sub)
             commentCounter += 1
-        submission.comments.replace_more(limit=20)
+        submission.comments.replace_more(limit=25)
         for comment in submission.comments.list():
             for sub2 in comment.body.upper().split(" "):
                 masterSET.append(sub2)
                 commentCounter += 1
-                if commentCounter % 1000 == 0:
-                    print("\nComments Analyzed: "+str(commentCounter))
+        sys.stdout.write("-")
+        sys.stdout.flush()
 
+    sys.stdout.write("]\n")  # this ends the progress bar
     print("Analyzing")
     print(spacer)
 
@@ -80,8 +87,8 @@ def main():
     print(spacer)
 
     # get all stock tickers
-    #from get_all_tickers import get_tickers as gt
-    #list_of_tickers = gt.get_tickers(NYSE=True, NASDAQ=True, AMEX=True)
+    # from get_all_tickers import get_tickers as gt
+    # list_of_tickers = gt.get_tickers(NYSE=True, NASDAQ=True, AMEX=True)
 
     StocksController = NasdaqController(True)
     list_of_tickers = StocksController.getList()
@@ -106,7 +113,7 @@ def main():
     # temp = mainFrame.plot(kind='bar', x='Ticker', y='Frequency')
     plt.figure(figsize=(15, 7))
     dateformat = date.today().strftime("%B %d, %Y")
-    #dateformat = "July 24, 2020"
+    # dateformat = "July 24, 2020"
     ax = sb.barplot(x='Ticker', y='Frequency', data=mainFrame)
     plt.title("WSB DAILY: THE MOST POPULAR TICKERS ON R/WSB TODAY", fontsize=20)
     annotation = ('--------- Summary ---------\n'+sentiment + '\nCalls: '+str(callCount)+'\nPuts: '+str(putCount) +
@@ -123,8 +130,9 @@ def main():
     print(spacer)
     end = time.time()
     print("Run time: " + str(round(end - start, 2))+" seconds")
-    fileTitle = datetime.today().strftime('"%m-%d-%Y"')+'.png'
-    plt.savefig('history/'+fileTitle.strip('"'))
+    fileTitle = datetime.today().strftime('"%m-%d-%Y"')
+    fileTitle = fileTitle[1:-1]
+    plt.savefig('history/'+fileTitle+'.png')
     # plt.show()
 
 
