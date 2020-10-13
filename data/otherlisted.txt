@@ -339,7 +339,6 @@ ATTO|Atento S.A. Ordinary Shares|N|ATTO|N|100|N|ATTO
 ATUS|Altice USA, Inc. Class A Common Stock|N|ATUS|N|100|N|ATUS
 ATV|Acorn International, Inc. ADS|N|ATV|N|100|N|ATV
 AU|AngloGold Ashanti Limited Common Stock|N|AU|N|100|N|AU
-AUG|Auryn Resources Inc. Common Shares|A|AUG|N|100|N|AUG
 AUGZ|TrueShares Structured Outcome (August) ETF|Z|AUGZ|Y|100|N|AUGZ
 AUMN|Golden Minerals Company Common Stock|A|AUMN|N|100|N|AUMN
 AUSF|Global X Funds Global X Adaptive U.S. Factor ETF|P|AUSF|Y|100|N|AUSF
@@ -417,7 +416,7 @@ BAP|Credicorp Ltd. Common Stock|N|BAP|N|100|N|BAP
 BAPR|Innovator S&P 500 Buffer ETF - April |Z|BAPR|Y|100|N|BAPR
 BAR|GraniteShares Gold Trust Shares of Beneficial Interest|P|BAR|N|100|N|BAR
 BATL|Battalion Oil Corporation Common Stock|A|BATL|N|100|N|BATL
-BATT|Amplify Advanced Battery Metals and Materials ETF|P|BATT|Y|100|N|BATT
+BATT|Amplify Lithium & Battery Technology ETF|P|BATT|Y|100|N|BATT
 BAUG|Innovator S&P 500 Buffer ETF - August|Z|BAUG|Y|100|N|BAUG
 BAX|Baxter International Inc. Common Stock|N|BAX|N|100|N|BAX
 BB|BlackBerry Limited Common Stock|N|BB|N|100|N|BB
@@ -1921,7 +1920,9 @@ FSMB|First Trust Short Duration Managed Municipal ETF|P|FSMB|Y|100|N|FSMB
 FSMD|Fidelity Small-Mid Factor ETF|P|FSMD|Y|100|N|FSMD
 FSP|Franklin Street Properties Corp. Common Stock|A|FSP|N|100|N|FSP
 FSS|Federal Signal Corporation Common Stock|N|FSS|N|100|N|FSS
+FST|FAST Acquisition Corp. Class A Common Stock|N|FST|N|100|N|FST
 FST.U|FAST Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|FST.U|N|100|N|FST=
+FST.W|FAST Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|FST.WS|N|100|N|FST+
 FSTA|Fidelity MSCI COnsumer Staples Index ETF|P|FSTA|Y|100|N|FSTA
 FT|Franklin Universal Trust Common Stock|N|FT|N|100|N|FT
 FTAI|Fortress Transportation and Infrastructure Investors LLC Common Shares|N|FTAI|N|100|N|FTAI
@@ -1946,6 +1947,7 @@ FUL|H. B. Fuller Company Common Stock|N|FUL|N|100|N|FUL
 FUMB|First Trust Ultra Short Duration Municipal ETF|P|FUMB|Y|100|N|FUMB
 FUN|Cedar Fair, L.P. Common Stock|N|FUN|N|100|N|FUN
 FUNL|CornerCap Fundametrics Large-Cap ETF|Z|FUNL|Y|100|N|FUNL
+FURY|Fury Gold Mines Limited Common Shares|A|FURY|N|100|N|FURY
 FUSE|Fusion Acquisition Corp. Class A Common Stock|N|FUSE|N|100|N|FUSE
 FUSE.U|Fusion Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable Warrant|N|FUSE.U|N|100|N|FUSE=
 FUSE.W|Fusion Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|FUSE.WS|N|100|N|FUSE+
@@ -2412,7 +2414,9 @@ HYT|Blackrock Corporate High Yield Fund, Inc. Common Stock|N|HYT|N|100|N|HYT
 HYTR|CP High Yield Trend ETF|P|HYTR|Y|100|N|HYTR
 HYUP|Xtrackers High Beta High Yield Bond ETF|P|HYUP|Y|100|N|HYUP
 HYXU|iShares International High Yield Bond ETF|Z|HYXU|Y|100|N|HYXU
+HZAC|Horizon Acquisition Corporation Class A Ordinary Shares|N|HZAC|N|100|N|HZAC
 HZAC.U|Horizon Acquisition Corporation Units, each consisting of one Class A Ordinary Shares and one-third of one Redeemable warrant|N|HZAC.U|N|100|N|HZAC=
+HZAC.W|Horizon Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|HZAC.WS|N|100|N|HZAC+
 HZN|Horizon Global Corporation Common Shares|N|HZN|N|100|N|HZN
 HZO|MarineMax, Inc.  (FL) Common Stock|N|HZO|N|100|N|HZO
 IAA|IAA, Inc. Common Stock |N|IAA|N|100|N|IAA
@@ -3209,7 +3213,6 @@ MMU|Western Asset Managed Municipals Fund, Inc. Common Stock|N|MMU|N|100|N|MMU
 MMX|Maverix Metals Inc. Common Shares|A|MMX|N|100|N|MMX
 MN|Manning & Napier, Inc. Class A Common Stock|N|MN|N|100|N|MN
 MNA|IQ Merger Arbitrage ETF|P|MNA|Y|100|N|MNA
-MNK|Mallinckrodt plc Ordinary Shares|N|MNK|N|100|N|MNK
 MNP|Western Asset Municipal Partners Fund, Inc. Common Stock|N|MNP|N|100|N|MNP
 MNR|Monmouth Real Estate Investment Corporation Class A Common Stock|N|MNR|N|100|N|MNR
 MNR$C|Monmouth Real Estate Investment Corporation 6.125% Series C Cumulative Redeemable Preferred Stock|N|MNRpC|N|100|N|MNR-C
@@ -3621,7 +3624,6 @@ OMF|OneMain Holdings, Inc. Common Stock|N|OMF|N|100|N|OMF
 OMFL|Invesco Exchange-Traded Self-Indexed Fund Trust Invesco Russell 1000 Dynamic Multifactor ETF|Z|OMFL|Y|100|N|OMFL
 OMFS|Invesco Exchange-Traded Self-Indexed Fund Trust Invesco Russell 2000 Dynamic Multifactor ETF|Z|OMFS|Y|100|N|OMFS
 OMI|Owens & Minor, Inc. Common Stock|N|OMI|N|100|N|OMI
-ONDK|On Deck Capital, Inc. Common Stock|N|ONDK|N|100|N|ONDK
 ONE|OneSmart International Education Group Limited ADS|N|ONE|N|100|N|ONE
 ONEO|SPDR Russell 1000 Momentum Focus ETF|P|ONEO|Y|100|N|ONEO
 ONEV|SPDR Russell 1000 Low Volatility Focus ETF|P|ONEV|Y|100|N|ONEV
@@ -4784,6 +4786,7 @@ THW|Tekla World Healthcare Fund Shares of Beneficial Interest|N|THW|N|100|N|THW
 THY|Agility Shares Dynamic Tactical Income ETF|Z|THY|Y|100|N|THY
 TIF|Tiffany & Co. Common Stock|N|TIF|N|100|N|TIF
 TILT|FlexShares Mornigstar US Market Factors Tilt Index Fund ETF|Z|TILT|Y|100|N|TILT
+TIMB.V|TIM S.A. American Depositary Shares (Each representing 5 Common Shares) When Issued|N|TIMBw|N|100|N|TIMB#
 TIP|iShares TIPS Bond ETF|P|TIP|Y|100|N|TIP
 TIPX|SPDR Bloomberg Barclays 1-10 Year TIPS|P|TIPX|Y|100|N|TIPX
 TIPZ|PIMCO Broad U.S. TIPS Index Exchange-Traded Fund|P|TIPZ|Y|100|N|TIPZ
@@ -4887,7 +4890,6 @@ TSM|Taiwan Semiconductor Manufacturing Company Ltd.|N|TSM|N|100|N|TSM
 TSN|Tyson Foods, Inc. Common Stock|N|TSN|N|100|N|TSN
 TSOC|Innovator Triple Stacker ETF - October|Z|TSOC|Y|100|N|TSOC
 TSQ|Townsquare Media, Inc. Class A Common Stock|N|TSQ|N|100|N|TSQ
-TSU|TIM Participacoes S.A. American Depositary Shares (Each representing 5 Common Shares)|N|TSU|N|100|N|TSU
 TT|Trane Technologies plc|N|TT|N|100|N|TT
 TTAC|TrimTabs All Cap U.S. Free-Cash-Flow ETF|Z|TTAC|Y|100|N|TTAC
 TTAI|TRIMTABS ETF TRUST ETF|Z|TTAI|Y|100|N|TTAI
@@ -5461,4 +5463,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1009202015:42||||||
+File Creation Time: 1013202015:41||||||
