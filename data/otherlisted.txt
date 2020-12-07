@@ -4332,7 +4332,6 @@ SAK|Saratoga Investment Corp 7.25% Notes due 2025|N|SAK|N|100|N|SAK
 SALT|Scorpio Bulkers Inc. Common Stock|N|SALT|N|100|N|SALT
 SAM|Boston Beer Company, Inc. (The) Common Stock|N|SAM|N|100|N|SAM
 SAN|Banco Santander, S.A. Sponsored ADR (Spain)|N|SAN|N|100|N|SAN
-SAN$B|Banco Santander, S.A. Floating Rate Non-cumulative Series 6 Guaranteed Preferred Securities|N|SANpB|N|100|N|SAN-B
 SAND|Sandstorm Gold Ltd. Ordinary Shares (Canada)|N|SAND|N|100|N|SAND
 SAP|SAP  SE ADS|N|SAP|N|100|N|SAP
 SAR|Saratoga Investment Corp New|N|SAR|N|100|N|SAR
@@ -5551,4 +5550,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 1204202015:42||||||
+File Creation Time: 1207202015:42||||||
