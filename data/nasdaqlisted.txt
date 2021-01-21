@@ -96,6 +96,7 @@ AESE|Allied Esports Entertainment, Inc. - Common Stock|S|N|N|100|N|N
 AEY|ADDvantage Technologies Group, Inc. - Common Stock|G|N|N|100|N|N
 AEYE|AudioEye, Inc. - Common Stock|S|N|N|100|N|N
 AEZS|Aeterna Zentaris Inc. - Common Stock|S|N|D|100|N|N
+AFBI|Affinity Bancshares, Inc. - Common Stock|S|N|N|100|N|N
 AFIB|Acutus Medical, Inc. - Common Stock|Q|N|N|100|N|N
 AFIN|American Finance Trust, Inc. - Class A Common Stock|Q|N|N|100|N|N
 AFINO|American Finance Trust, Inc. - 7.375% Series C Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
@@ -711,7 +712,6 @@ CFAC|CF Finance Acquisition Corp. III - Common Stock|S|N|N|100|N|N
 CFACU|CF Finance Acquisition Corp. III - Unit|S|N|N|100|N|N
 CFACW|CF Finance Acquisition Corp. III - Warrant|S|N|N|100|N|N
 CFB|CrossFirst Bankshares, Inc. - Common Stock|Q|N|N|100|N|N
-CFBI|Community First Bancshares, Inc. - Common Stock|S|N|N|100|N|N
 CFBK|CF Bankshares Inc. - Common Stock|S|N|N|100|N|N
 CFFI|C&F Financial Corporation - Common Stock|Q|N|N|100|N|N
 CFFN|Capitol Federal Financial, Inc. - Common Stock|Q|N|N|100|N|N
@@ -934,7 +934,6 @@ CSTE|Caesarstone Ltd. - Ordinary Shares|Q|N|N|100|N|N
 CSTL|Castle Biosciences, Inc. - Common stock|G|N|N|100|N|N
 CSTR|CapStar Financial Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 CSWC|Capital Southwest Corporation - Common Stock|Q|N|N|100|N|N
-CSWCL|Capital Southwest Corporation - 5.95% Notes due 2022|Q|N|N|100|N|N
 CSWI|CSW Industrials, Inc. - Common Stock|Q|N|N|100|N|N
 CSX|CSX Corporation - Common Stock|Q|N|N|100|N|N
 CTAQU|Carney Technology Acquisition Corp. II - Units|S|N|N|100|N|N
@@ -1019,6 +1018,7 @@ DDOG|Datadog, Inc. - Class A Common Stock|Q|N|N|100|N|N
 DEMZ|DEMZ Political Contributions ETF|G|N|N|100|Y|N
 DENN|Denny's Corporation - Common Stock|S|N|N|100|N|N
 DFFN|Diffusion Pharmaceuticals Inc. - Common Stock|S|N|D|100|N|N
+DFH|Dream Finders Homes, Inc. - Class A Common Stock|Q|N|N|100|N|N
 DFHT|Deerfield Healthcare Technology Acquisitions Corp. - Class A Common Stock|S|N|N|100|N|N
 DFHTU|Deerfield Healthcare Technology Acquisitions Corp. - Unit|S|N|N|100|N|N
 DFHTW|Deerfield Healthcare Technology Acquisitions Corp. - Warrant|S|N|N|100|N|N
@@ -1143,7 +1143,7 @@ EDUT|Global X Education ETF|G|N|N|100|Y|N
 EEFT|Euronet Worldwide, Inc. - Common Stock|Q|N|N|100|N|N
 EEMA|iShares MSCI Emerging Markets Asia ETF|G|N|N|100|Y|N
 EFAS|Global X MSCI SuperDividend EAFE ETF|G|N|N|100|Y|N
-EFOI|Energy Focus, Inc. - Common Stock|S|N|D|100|N|N
+EFOI|Energy Focus, Inc. - Common Stock|S|N|N|100|N|N
 EFSC|Enterprise Financial Services Corporation - Common Stock|Q|N|N|100|N|N
 EGAN|eGain Corporation - Common Stock|S|N|N|100|N|N
 EGBN|Eagle Bancorp, Inc. - Common Stock|S|N|N|100|N|N
@@ -1320,7 +1320,6 @@ FDT|First Trust Developed Markets Ex-US AlphaDEX Fund|G|N|N|100|Y|N
 FDTS|First Trust Developed Markets ex-US Small Cap AlphaDEX Fund|G|N|N|100|Y|N
 FDUS|Fidus Investment Corporation - Common Stock|Q|N|N|100|N|N
 FDUSG|Fidus Investment Corporation - 5.375% Notes Due 2024|Q|N|N|100|N|N
-FDUSL|Fidus Investment Corporation - 5.875% Notes due 2023|Q|N|N|100|N|N
 FDUSZ|Fidus Investment Corporation - 6% Notes due 2024|Q|N|N|100|N|N
 FEIM|Frequency Electronics, Inc. - Common Stock|G|N|N|100|N|N
 FELE|Franklin Electric Co., Inc. - Common Stock|Q|N|N|100|N|N
@@ -1965,6 +1964,7 @@ ISRG|Intuitive Surgical, Inc. - Common Stock|Q|N|N|100|N|N
 ISSC|Innovative Solutions and Support, Inc. - Common Stock|Q|N|N|100|N|N
 ISTB|iShares Core 1-5 Year USD Bond ETF|G|N|N|100|Y|N
 ISTR|Investar Holding Corporation - Common Stock|G|N|N|100|N|N
+ISUN|iSun, Inc. - Common Stock|S|N|D|100|N|N
 ITAC|Industrial Tech Acquisitions, Inc. - Class A common stock|S|N|N|100|N|N
 ITACU|Industrial Tech Acquisitions, Inc. - Unit|S|N|N|100|N|N
 ITACW|Industrial Tech Acquisitions, Inc. - Warrant|S|N|N|100|N|N
@@ -2391,7 +2391,7 @@ MOSY|MoSys, Inc. - Common Stock|S|N|N|100|N|N
 MOTN|Motion Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
 MOTNU|Motion Acquisition Corp. - Unit|S|N|N|100|N|N
 MOTNW|Motion Acquisition Corp. - Warrants to purchase one Class A common|S|N|N|100|N|N
-MOTS|Motus GI Holdings, Inc. - Common Stock|S|N|D|100|N|N
+MOTS|Motus GI Holdings, Inc. - Common Stock|S|N|N|100|N|N
 MOXC|Moxian, Inc. - Common Stock|S|N|D|100|N|N
 MPAA|Motorcar Parts of America, Inc. - Common Stock|Q|N|N|100|N|N
 MPB|Mid Penn Bancorp - Common Stock|G|N|N|100|N|N
@@ -2783,7 +2783,6 @@ PDP|Invesco DWA Momentum ETF|G|N|N|100|Y|N
 PDSB|PDS Biotechnology Corporation - Common Stock|S|N|N|100|N|N
 PEBK|Peoples Bancorp of North Carolina, Inc. - Common Stock|G|N|N|100|N|N
 PEBO|Peoples Bancorp Inc. - Common Stock|Q|N|N|100|N|N
-PECK|The Peck Company Holdings, Inc. - Common Stock|S|N|D|100|N|N
 PEGA|Pegasystems Inc. - Common Stock|Q|N|N|100|N|N
 PEIX|Alto Ingredients, Inc. - Common Stock|S|N|N|100|N|N
 PENN|Penn National Gaming, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3284,6 +3283,7 @@ SIVB|SVB Financial Group - Common Stock|Q|N|N|100|N|N
 SIVBP|SVB Financial Group - Depositary Shs each representing a 1/40th interest in a share of 5.25% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A|Q|N|N|100|N|N
 SJ|Scienjoy Holding Corporation - Ordinary Shares|S|N|N|100|N|N
 SKOR|FlexShares Credit-Scored US Corporate Bond Index Fund|G|N|N|100|Y|N
+SKYU|ProShares Ultra Nasdaq Cloud Computing ETF|G|N|N|100|Y|N
 SKYW|SkyWest, Inc. - Common Stock|Q|N|N|100|N|N
 SKYY|First Trust Cloud Computing ETF|G|N|N|100|Y|N
 SLAB|Silicon Laboratories, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3670,6 +3670,7 @@ UCBI|United Community Banks, Inc. - Common Stock|Q|N|N|100|N|N
 UCBIO|United Community Banks, Inc. - Depositary Shares each representing 1/1,000th interest in a share of Series I Non-Cumulative Preferred Stock|Q|N|N|100|N|N
 UCL|uCloudlink Group Inc. - American Depositary Shares|G|N|N|100|N|N
 UCTT|Ultra Clean Holdings, Inc. - Common Stock|Q|N|N|100|N|N
+UCYB|ProShares Ultra Nasdaq Cybersecurity ETF|G|N|N|100|Y|N
 UEIC|Universal Electronics Inc. - Common Stock|Q|N|N|100|N|N
 UEPS|Net 1 UEPS Technologies, Inc. - Common Stock|Q|N|N|100|N|N
 UFCS|United Fire Group, Inc - Common Stock|Q|N|N|100|N|N
@@ -3940,6 +3941,7 @@ XLNX|Xilinx, Inc. - Common Stock|Q|N|N|100|N|N
 XLRN|Acceleron Pharma Inc. - Common Stock|G|N|N|100|N|N
 XNCR|Xencor, Inc. - Common Stock|G|N|N|100|N|N
 XNET|Xunlei Limited - American Depositary Shares|Q|N|N|100|N|N
+XOG|Extraction Oil & Gas, Inc. - Common Stock|Q|N|N|100|N|N
 XOMA|XOMA Corporation - Common Stock|G|N|N|100|N|N
 XOMAP|XOMA Corporation - 8.625% Series A Cumulative Perpetual Preferred Stock|G|N|N|100|N|N
 XONE|The ExOne Company - Common Stock|Q|N|N|100|N|N
@@ -4011,4 +4013,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0120202115:41|||||||
+File Creation Time: 0121202115:41|||||||
