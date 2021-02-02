@@ -3,6 +3,7 @@ A|Agilent Technologies, Inc. Common Stock|N|A|N|100|N|A
 AA|Alcoa Corporation Common Stock |N|AA|N|100|N|AA
 AAA|Listed Funds Trust AAF First Priority CLO Bond ETF|P|AAA|Y|100|N|AAA
 AAAU|Goldman Sachs Physical Gold ETF Shares|P|AAAU|Y|100|N|AAAU
+AAC.U|Ares Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-fifth of one redeemable warrant|N|AAC.U|N|100|N|AAC=
 AADR|AdvisorShares Dorsey Wright ADR ETF|P|AADR|Y|100|N|AADR
 AAIC|Arlington Asset Investment Corp Class A (new)|N|AAIC|N|100|N|AAIC
 AAIC$B|Arlington Asset Investment Corp 7.00% |N|AAICpB|N|100|N|AAIC-B
@@ -1060,7 +1061,6 @@ CRI|Carter's, Inc. Common Stock|N|CRI|N|100|N|CRI
 CRK|Comstock Resources, Inc. Common Stock|N|CRK|N|100|N|CRK
 CRL|Charles River Laboratories International, Inc. Common Stock|N|CRL|N|100|N|CRL
 CRM|Salesforce.com Inc Common Stock|N|CRM|N|100|N|CRM
-CRMD|CorMedix Inc. Common Stock|A|CRMD|N|100|N|CRMD
 CROC|ProShares UltraShort Australian Dollar|P|CROC|N|100|N|CROC
 CRS|Carpenter Technology Corporation Common Stock|N|CRS|N|100|N|CRS
 CRT|Cross Timbers Royalty Trust Common Stock|N|CRT|N|100|N|CRT
@@ -1191,6 +1191,7 @@ DCP$B|DCP Midstream LP 7.875% Series B Fixed-to-Floating Rate Cumulative Redeema
 DCP$C|DCP Midstream LP 7.95% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Units|N|DCPpC|N|100|N|DCP-C
 DCUE|Dominion Energy, Inc. 2019 Series A Corporate Units|N|DCUE|N|100|N|DCUE
 DD|DuPont de Nemours, Inc. Common Stock|N|DD|N|100|N|DD
+DD.Z|DuPont de Nemours, Inc. Common Stock When Distributed|N|DD.WD|N|100|N|DD$
 DDD|3D Systems Corporation Common Stock|N|DDD|N|100|N|DDD
 DDEC|FT Cboe Vest U.S. Equity Deep Buffer ETF - December|Z|DDEC|Y|100|N|DDEC
 DDF|Delaware Investments Dividend & Income Fund, Inc. Common Stock|N|DDF|N|100|N|DDF
@@ -2944,6 +2945,7 @@ JWN|Nordstrom, Inc. Common Stock|N|JWN|N|100|N|JWN
 JWS|Jaws Acquisition Corp. Class A Ordinary Shares|N|JWS|N|100|N|JWS
 JWS.U|Jaws Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|JWS.U|N|100|N|JWS=
 JWS.W|Jaws Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|JWS.WS|N|100|N|JWS+
+JWSM.U|Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth of one redeemable warrant|N|JWSM.U|N|100|N|JWSM=
 JXI|iShares Global Utilities ETF|P|JXI|Y|100|N|JXI
 K|Kellogg Company Common Stock|N|K|N|100|N|K
 KAI|Kadant Inc Common Stock|N|KAI|N|100|N|KAI
@@ -3214,6 +3216,7 @@ MCS|Marcus Corporation (The) Common Stock|N|MCS|N|100|N|MCS
 MCY|Mercury General Corporation Common Stock|N|MCY|N|100|N|MCY
 MD|Mednax, Inc. Common Stock|N|MD|N|100|N|MD
 MDC|M.D.C. Holdings, Inc. Common Stock|N|MDC|N|100|N|MDC
+MDH.U|MDH Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of one redeemable warrant|N|MDH.U|N|100|N|MDH=
 MDLA|Medallia, Inc. Common Stock|N|MDLA|N|100|N|MDLA
 MDLQ|Medley LLC 7.25% Notes due 2024|N|MDLQ|N|100|N|MDLQ
 MDLX|Medley LLC 6.875% Senior Notes due 2026|N|MDLX|N|100|N|MDLX
@@ -5649,4 +5652,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0201202115:41||||||
+File Creation Time: 0202202115:42||||||
