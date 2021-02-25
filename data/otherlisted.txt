@@ -1081,7 +1081,9 @@ CRM|Salesforce.com Inc Common Stock|N|CRM|N|100|N|CRM
 CROC|ProShares UltraShort Australian Dollar|P|CROC|N|100|N|CROC
 CRS|Carpenter Technology Corporation Common Stock|N|CRS|N|100|N|CRS
 CRT|Cross Timbers Royalty Trust Common Stock|N|CRT|N|100|N|CRT
+CRU|Crucible Acquisition Corporation Class A Common Stock|N|CRU|N|100|N|CRU
 CRU.U|Crucible Acquisition Corporation Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|CRU.U|N|100|N|CRU=
+CRU.W|Crucible Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|CRU.WS|N|100|N|CRU+
 CRY|CryoLife, Inc. Common Stock|N|CRY|N|100|N|CRY
 CS|Credit Suisse Group American Depositary Shares|N|CS|N|100|N|CS
 CSD|Invesco S&P Spin-Off ETF|P|CSD|Y|100|N|CSD
@@ -1913,6 +1915,7 @@ FLLA|Franklin FTSE Latin America ETF|P|FLLA|Y|100|N|FLLA
 FLLV|Franklin Liberty U.S. Low Volatility ETF|P|FLLV|Y|100|N|FLLV
 FLM|First Trust Global Engineering and Construction ETF|P|FLM|Y|100|N|FLM
 FLMB|Franklin Templeton ETF Trust Franklin Liberty Federal Tax-Free Bond ETF|P|FLMB|Y|100|N|FLMB
+FLME.U|Flame Acquisition Corp. Units, each consisting of one share of Class A Common Stock, and one-half of one Warrant|N|FLME.U|N|100|N|FLME=
 FLMI|Franklin Templeton ETF Trust Franklin Liberty Federal Intermediate Tax-Free Bond Opportunities ETF|P|FLMI|Y|100|N|FLMI
 FLMX|Franklin FTSE Mexico ETF|P|FLMX|Y|100|N|FLMX
 FLNG|FLEX LNG Ltd. Ordinary Shares|N|FLNG|N|100|N|FLNG
@@ -2069,7 +2072,9 @@ FUTY|Fidelity MSCI Utilities Index ETF|P|FUTY|Y|100|N|FUTY
 FVAL|Fidelity Value Factor ETF|P|FVAL|Y|100|N|FVAL
 FVD|First Trust VL Dividend|P|FVD|Y|100|N|FVD
 FVRR|Fiverr International Ltd. Ordinary Shares, no par value|N|FVRR|N|100|N|FVRR
+FVT|Fortress Value Acquisition Corp. III Class A Common Stock|N|FVT|N|100|N|FVT
 FVT.U|Fortress Value Acquisition Corp. III Units, each consisting of one share of Class A common stock and one-fifth of one Warrant|N|FVT.U|N|100|N|FVT=
+FVT.W|Fortress Value Acquisition Corp. III Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|FVT.WS|N|100|N|FVT+
 FWDB|AdvisorShares FolioBeyond Smart Core Bond ETF|P|FWDB|Y|100|N|FWDB
 FXA|Invesco CurrencyShares Australian Dollar Trust|P|FXA|Y|100|N|FXA
 FXB|Invesco CurrencyShares British Pound Sterling Trust|P|FXB|Y|100|N|FXB
@@ -2441,7 +2446,6 @@ HLT|Hilton Worldwide Holdings Inc. Common Stock |N|HLT|N|100|N|HLT
 HLX|Helix Energy Solutions Group, Inc. Common Stock|N|HLX|N|100|N|HLX
 HMC|Honda Motor Company, Ltd. Common Stock|N|HMC|N|100|N|HMC
 HMG|HMG/Courtland Properties, Inc. Common Stock|A|HMG|N|100|N|HMG
-HMI|Huami Corporation American Depositary Shares, each representing four Class A Ordinary Shares|N|HMI|N|100|N|HMI
 HMLP|Hoegh LNG Partners LP Common Units representing Limited Partner Interests|N|HMLP|N|100|N|HMLP
 HMLP$A|Hoegh LNG Partners LP 8.75% Series A Cumulative Redeemable Preferred Units|N|HMLPpA|N|100|N|HMLP-A
 HMN|Horace Mann Educators Corporation Common Stock|N|HMN|N|100|N|HMN
@@ -2501,6 +2505,7 @@ HTUS|Hull Tactical US ETF|P|HTUS|Y|100|N|HTUS
 HTY|John Hancock Tax-Advantaged Global Shareholder Yield Fund Common Shares of Beneficial Interest|N|HTY|N|100|N|HTY
 HUBB|Hubbell Inc Common Stock|N|HUBB|N|100|N|HUBB
 HUBS|HubSpot, Inc. Common Stock|N|HUBS|N|100|N|HUBS
+HUGS.U|USHG Acquisition Corp. Units, each consisting of one share of Class A Common Stock, and one-third of one Warrant|N|HUGS.U|N|100|N|HUGS=
 HUM|Humana Inc. Common Stock|N|HUM|N|100|N|HUM
 HUN|Huntsman Corporation Common Stock|N|HUN|N|100|N|HUN
 HUSA|Houston American Energy Corporation Common Stock|A|HUSA|N|100|N|HUSA
@@ -3800,6 +3805,7 @@ OOMA|Ooma, Inc. Common Stock|N|OOMA|N|100|N|OOMA
 OPER|ETF Series Solutions ETF ClearShares Ultra-Short Maturity ETF|P|OPER|Y|100|N|OPER
 OPP|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock|N|OPP|N|100|N|OPP
 OPP$A|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock|N|OPPpA|N|100|N|OPP-A
+OPPX|Corbett Road Tactical Opportunity ETF|P|OPPX|Y|100|N|OPPX
 OPY|Oppenheimer Holdings, Inc. Class A Common Stock (DE)|N|OPY|N|100|N|OPY
 OR|Osisko Gold Royalties Ltd Common Shares|N|OR|N|100|N|OR
 ORA|Ormat Technologies, Inc. Common Stock|N|ORA|N|100|N|ORA
@@ -5691,6 +5697,7 @@ ZCAN|SPDR Solactive Canada ETF|P|ZCAN|Y|100|N|ZCAN
 ZDEU|SPDR Solactive Germany ETF|P|ZDEU|Y|100|N|ZDEU
 ZDGE|Zedge, Inc. Class B Common Stock |A|ZDGE|N|100|N|ZDGE
 ZEN|Zendesk, Inc. Common Stock|N|ZEN|N|100|N|ZEN
+ZEPP|Zepp Health Corporation American Depositary Shares|N|ZEPP|N|100|N|ZEPP
 ZEXIT|IEX Test Company Test Symbol Two for IEX|V|ZEXIT|N|100|Y|ZEXIT
 ZGBR|SPDR Solactive United Kingdom ETF|P|ZGBR|Y|100|N|ZGBR
 ZHOK|SPDR Solactive Hong Kong ETF|P|ZHOK|Y|100|N|ZHOK
@@ -5710,4 +5717,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0224202115:43||||||
+File Creation Time: 0225202115:43||||||
