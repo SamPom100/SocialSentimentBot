@@ -64,6 +64,7 @@ ADCT|ADC Therapeutics SA Common Shares|N|ADCT|N|100|N|ADCT
 ADEX|Adit EdTech Acquisition Corp. Common Stock|N|ADEX|N|100|N|ADEX
 ADEX.U|Adit EdTech Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one redeemable warrant|N|ADEX.U|N|100|N|ADEX=
 ADEX.W|Adit EdTech Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share|N|ADEX.WS|N|100|N|ADEX+
+ADF.U|Aldel Financial Inc. Units, each consisting of one share of Class A common stock and one-half of one redeemable warrant|N|ADF.U|N|100|N|ADF=
 ADFI|Anfield Dynamic Fixed Income ETF|Z|ADFI|Y|100|N|ADFI
 ADM|Archer-Daniels-Midland Company Common Stock|N|ADM|N|100|N|ADM
 ADME|Aptus Drawdown Managed Equity ETF|Z|ADME|Y|100|N|ADME
@@ -959,7 +960,9 @@ CLI|Mack-Cali Realty Corporation Common Stock|N|CLI|N|100|N|CLI
 CLII|Climate Change Crisis Real Impact I Acquisition Corporation Class A Common Stock|N|CLII|N|100|N|CLII
 CLII.U|Climate Change Crisis Real Impact I Acquisition Corporation Units, each consisting of one share of Class A Common Stock and one-half of one Warrant|N|CLII.U|N|100|N|CLII=
 CLII.W|Climate Change Crisis Real Impact I Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|CLII.WS|N|100|N|CLII+
+CLIM|Climate Real Impact Solutions II Acquisition Corporation Class A Common Stock|N|CLIM|N|100|N|CLIM
 CLIM.U|Climate Real Impact Solutions II Acquisition Corporation Units, each consisting of one share of Class A common stock, and one-fifth of one redeemable warrant|N|CLIM.U|N|100|N|CLIM=
+CLIM.W|Climate Real Impact Solutions II Acquisition Corporation Redeemable Warrants, each whole Warrant exercisable for one share of Class A Common Stock, each at an exercise price of $11.50 per share|N|CLIM.WS|N|100|N|CLIM+
 CLIX|ProShares Long Online/Short Stores ETF|P|CLIX|Y|100|N|CLIX
 CLM|Cornerstone Strategic Value Fund, Inc. New Common Stock|A|CLM|N|100|N|CLM
 CLNC|Colony Credit Real Estate, Inc. Class A Common Stock|N|CLNC|N|100|N|CLNC
@@ -1108,7 +1111,9 @@ CSM|ProShares Large Cap Core Plus|Z|CSM|Y|100|N|CSM
 CSPR|Casper Sleep Inc. Common Stock|N|CSPR|N|100|N|CSPR
 CSR|D/B/A Centerspace Common Stock|N|CSR|N|100|N|CSR
 CSR$C|D/B/A Centerspace 6.625% Series C |N|CSRpC|N|100|N|CSR-C
+CSTA|Constellation Acquisition Corp I Class A Ordinary Shares|N|CSTA|N|100|N|CSTA
 CSTA.U|Constellation Acquisition Corp I Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|CSTA.U|N|100|N|CSTA=
+CSTA.W|Constellation Acquisition Corp I Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|CSTA.WS|N|100|N|CSTA+
 CSTM|Constellium SE Ordinary Shares (France)|N|CSTM|N|100|N|CSTM
 CSU|Capital Senior Living Corporation Common Stock|N|CSU|N|100|N|CSU
 CSV|Carriage Services, Inc. Common Stock|N|CSV|N|100|N|CSV
@@ -1315,7 +1320,6 @@ DJUN|FT Cboe Vest U.S. Equity Deep Buffer ETF - June|Z|DJUN|Y|100|N|DJUN
 DK|Delek US Holdings, Inc. Common Stock|N|DK|N|100|N|DK
 DKL|Delek Logistics Partners, L.P. Common Units representing Limited Partner Interests|N|DKL|N|100|N|DKL
 DKS|Dick's Sporting Goods Inc Common Stock|N|DKS|N|100|N|DKS
-DL|China Distance Education Holdings Limited American Depositary Shares|N|DL|N|100|N|DL
 DLA|Delta Apparel, Inc. Common Stock|A|DLA|N|100|N|DLA
 DLB|Dolby Laboratories Common Stock|N|DLB|N|100|N|DLB
 DLN|WisdomTree U.S. LargeCap Dividend Fund|P|DLN|Y|100|N|DLN
@@ -3104,7 +3108,7 @@ KO|Coca-Cola Company (The) Common Stock|N|KO|N|100|N|KO
 KOCT|Innovator Russell 2000 Power Buffer ETF - October|Z|KOCT|Y|100|N|KOCT
 KODK|Eastman Kodak Company Common New|N|KODK|N|100|N|KODK
 KOF|Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares, each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)|N|KOF|N|100|N|KOF
-KOIN|Capital Link NextGen Protocol ETF|P|KOIN|Y|100|N|KOIN
+KOIN|Capital Link Global Fintech Leaders ETF|P|KOIN|Y|100|N|KOIN
 KOKU|Xtrackers MSCI Kokusai Equity ETF|P|KOKU|Y|100|N|KOKU
 KOLD|ProShares UltraShort Bloomberg Natural Gas|P|KOLD|Y|100|N|KOLD
 KOMP|SPDR S&P Kensho New Economies Composite ETF|P|KOMP|Y|100|N|KOMP
@@ -3197,6 +3201,7 @@ LGL|LGL Group, Inc. (The) Common Stock|A|LGL|N|100|N|LGL
 LGL.W|LGL Group, Inc. (The) Warrants|A|LGL.WS|N|100|N|LGL+
 LGLV|SPDR SSGA US Large Cap Low Volatility Index ETF|P|LGLV|Y|100|N|LGLV
 LGOV|First Trust Long Duration Opportunities ETF|P|LGOV|Y|100|N|LGOV
+LGV.U|Longview Acquisition Corp. II Units, each consisting of one share of Class A Common Stock and one-fifth of one redeemable Warrant|N|LGV.U|N|100|N|LGV=
 LH|Laboratory Corporation of America Holdings Common Stock|N|LH|N|100|N|LH
 LHC|Leo Holdings Corp. II Class A Ordinary Shares|N|LHC|N|100|N|LHC
 LHC.U|Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|LHC.U|N|100|N|LHC=
@@ -4127,6 +4132,7 @@ PRA|ProAssurance Corporation Common Stock|N|PRA|N|100|N|PRA
 PRE$G|PartnerRe Ltd. 6.50% Series G Cumulative Redeemable Preferred Shares, $1.00 par value|N|PREpG|N|100|N|PRE-G
 PRE$H|PartnerRe Ltd. 7.25% Series H Cumulative Redeemable Preferred Shares, $1.00 par value|N|PREpH|N|100|N|PRE-H
 PRE$I|PartnerRe Ltd. 5.875% Series I Non-Cumulative Redeemable Preferred Shares, $1.00 par value|N|PREpI|N|100|N|PRE-I
+PRE$J|PartnerRe Ltd. 4.875% Fixed Rate Non-Cumulative Redeemable Preferred Shares, Series J|N|PREpJ|N|100|N|PRE-J
 PREF|Principal Spectrum Preferred Securities Active ETF|P|PREF|Y|100|N|PREF
 PRF|Invesco FTSE RAFI US 1000 ETF|P|PRF|Y|100|N|PRF
 PRG|PROG Holdings, Inc. Common Stock|N|PRG|N|100|N|PRG
@@ -4974,6 +4980,7 @@ SYF$A|Synchrony Financial Depositary Shares, each Representing a 1/40th Interest
 SYK|Stryker Corporation Common Stock|N|SYK|N|100|N|SYK
 SYLD|Cambria Shareholder Yield ETF|Z|SYLD|Y|100|N|SYLD
 SYN|Synthetic Biologics, Inc. Common Stock|A|SYN|N|100|N|SYN
+SYUS|Syntax Stratified U.S. Total Market ETF|P|SYUS|Y|100|N|SYUS
 SYX|Systemax Inc. Common Stock|N|SYX|N|100|N|SYX
 SYY|Sysco Corporation Common Stock|N|SYY|N|100|N|SYY
 SZC|Cushing NextGen Infrastructure Income Fund Common Shares of Beneficial Interest|N|SZC|N|100|N|SZC
@@ -5660,6 +5667,7 @@ WUGI|Esoterica NextG Economy ETF|Z|WUGI|Y|100|N|WUGI
 WWE|World Wrestling Entertainment, Inc. Class A Common Stock|N|WWE|N|100|N|WWE
 WWJD|Inspire International ESG ETF|P|WWJD|Y|100|N|WWJD
 WWOW|Direxion World Without Waste ETF|P|WWOW|Y|100|N|WWOW
+WWR|Westwater Resources, Inc. Common Stock|A|WWR|N|100|N|WWR
 WWW|Wolverine World Wide, Inc. Common Stock|N|WWW|N|100|N|WWW
 WY|Weyerhaeuser Company Common Stock|N|WY|N|100|N|WY
 WYY|WidePoint Corporation Common Stock|A|WYY|N|100|N|WYY
@@ -5780,4 +5788,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0318202115:43||||||
+File Creation Time: 0319202115:41||||||
