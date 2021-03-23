@@ -1267,6 +1267,7 @@ DFHY|TrimTabs Donoghue Forlines Tactical High Yield ETF|Z|DFHY|Y|100|N|DFHY
 DFIN|Donnelley Financial Solutions, Inc. Common Stock |N|DFIN|N|100|N|DFIN
 DFJ|WisdomTree Japan SmallCap Fund|P|DFJ|Y|100|N|DFJ
 DFND|Siren DIVCON Dividend Defender ETF|Z|DFND|Y|100|N|DFND
+DFNL|Davis Fundamental ETF Trust Davis Select Financial ETF|Z|DFNL|Y|100|N|DFNL
 DFNS|LGL Systems Acquisition Corp. Common Stock|N|DFNS|N|100|N|DFNS
 DFNS.U|LGL Systems Acquisition Corp. Units|N|DFNS.U|N|100|N|DFNS=
 DFNS.W|LGL Systems Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of Class A Common Stock at an exercise price of $11.50 per share|N|DFNS.WS|N|100|N|DFNS+
@@ -1301,6 +1302,7 @@ DIAX|Nuveen Dow 30SM Dynamic Overwrite Fund Common Shares of Beneficial Interest
 DIG|ProShares Ultra Oil & Gas|P|DIG|Y|100|N|DIG
 DIM|WisdomTree International MidCap Dividend Fund|P|DIM|Y|100|N|DIM
 DIN|Dine Brands Global, Inc. Common Stock|N|DIN|N|100|N|DIN
+DINT|Davis Fundamental ETF Trust Davis Select International ETF|Z|DINT|Y|100|N|DINT
 DIS|Walt Disney Company (The) Common Stock|N|DIS|N|100|N|DIS
 DIT|AMCON Distributing Company Common Stock|A|DIT|N|10|N|DIT
 DIV|Global X Super Dividend ETF|P|DIV|Y|100|N|DIV
@@ -1429,6 +1431,7 @@ DUK$A|Duke Energy Corporation Depositary Shares, each representing a 1/1,000th i
 DUKB|Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078|N|DUKB|N|100|N|DUKB
 DUKH|Duke Energy Corporation 5.125% Junior Subordinated Debentures due 2073|N|DUKH|N|100|N|DUKH
 DURA|VanEck Vectors Morningstar Durable Dividend ETF|Z|DURA|Y|100|N|DURA
+DUSA|Davis Fundamental ETF Trust Davis Select U.S. Equity ETF|Z|DUSA|Y|100|N|DUSA
 DUSL|Direxion Daily Industrials Bull 3X Shares|P|DUSL|Y|100|N|DUSL
 DUST|Direxion Daily Gold Miners Index Bear 2X Shares|P|DUST|Y|100|N|DUST
 DVA|DaVita Inc. Common Stock|N|DVA|N|100|N|DVA
@@ -1439,6 +1442,7 @@ DVYE|iShares Emerging Markets Dividend Index Fund Exchange Traded Fund|P|DVYE|Y|
 DWIN|Delwinds Insurance Acquisition Corp. Class A Common Stock|N|DWIN|N|100|N|DWIN
 DWIN.U|Delwinds Insurance Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant|N|DWIN.U|N|100|N|DWIN=
 DWIN.W|Delwinds Insurance Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|DWIN.WS|N|100|N|DWIN+
+DWLD|Davis Fundamental ETF Trust Davis Select Worldwide ETF|Z|DWLD|Y|100|N|DWLD
 DWM|WisdomTree International Equity Fund|P|DWM|Y|100|N|DWM
 DWMF|WisdomTree International Multifactor Fund|P|DWMF|Y|100|N|DWMF
 DWX|SPDR S&P International Dividend ETF|P|DWX|Y|100|N|DWX
@@ -2925,7 +2929,6 @@ JCTR|JPMorgan Carbon Transition U.S. Equity ETF|P|JCTR|Y|100|N|JCTR
 JDD|Nuveen Diversified Dividend and Income Fund Shares of Beneficial Interest|N|JDD|N|100|N|JDD
 JDIV|JPMorgan U.S. Dividend ETF|P|JDIV|Y|100|N|JDIV
 JDST|Direxion Daily Junior Gold Miners Index Bear 2X Shares|P|JDST|Y|100|N|JDST
-JE|Just Energy Group, Inc. Ordinary Shares (Canada)|N|JE|N|100|N|JE
 JEF|Jefferies Financial Group Inc. Common Stock|N|JEF|N|100|N|JEF
 JELD|JELD-WEN Holding, Inc. Common Stock|N|JELD|N|100|N|JELD
 JEMA|J.P. Morgan Exchange-Traded Fund Trust JPMorgan Emerging Markets Equity Core ETF|Z|JEMA|Y|100|N|JEMA
@@ -3006,6 +3009,7 @@ JPM$D|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th  inte
 JPM$G|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.10% Non-Cumulative Preferred Stock, Series AA|N|JPMpG|N|100|N|JPM-G
 JPM$H|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 6.15% Non-Cumulative Preferred Stock, Series BB|N|JPMpH|N|100|N|JPM-H
 JPM$J|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of JPMorgan Chase & Co. 4.75% Non-Cumulative Preferred Stock, Series GG|N|JPMpJ|N|100|N|JPM-J
+JPM$K|J P Morgan Chase & Co Depositary Shares, each representing a 1/400th interest in a share of 4.55% Non-Cumulative Preferred Stock, Series JJ|N|JPMpK|N|100|N|JPM-K
 JPMB|JPMorgan USD Emerging Markets Sovereign Bond ETF|P|JPMB|Y|100|N|JPMB
 JPME|JPMorgan Diversified Return U.S. Mid Cap Equity ETF|P|JPME|Y|100|N|JPME
 JPN|Xtrackers Japan JPX-Nikkei 400 Equity ETF|P|JPN|Y|100|N|JPN
@@ -3109,7 +3113,7 @@ KO|Coca-Cola Company (The) Common Stock|N|KO|N|100|N|KO
 KOCT|Innovator Russell 2000 Power Buffer ETF - October|Z|KOCT|Y|100|N|KOCT
 KODK|Eastman Kodak Company Common New|N|KODK|N|100|N|KODK
 KOF|Coca Cola Femsa S.A.B. de C.V.  American Depositary Shares, each representing 10 Units (each Unit consists of 3 Series B Shares and 5 Series L Shares)|N|KOF|N|100|N|KOF
-KOIN|Capital Link Global Fintech Leaders ETF|P|KOIN|Y|100|N|KOIN
+KOIN|Capital Link NextGen Protocol ETF|P|KOIN|Y|100|N|KOIN
 KOKU|Xtrackers MSCI Kokusai Equity ETF|P|KOKU|Y|100|N|KOKU
 KOLD|ProShares UltraShort Bloomberg Natural Gas|P|KOLD|Y|100|N|KOLD
 KOMP|SPDR S&P Kensho New Economies Composite ETF|P|KOMP|Y|100|N|KOMP
@@ -3868,6 +3872,7 @@ ONOF|Global X Adaptive U.S. Risk Management ETF|P|ONOF|Y|100|N|ONOF
 ONTF|ON24, Inc. Common Stock|N|ONTF|N|100|N|ONTF
 ONTO|Onto Innovation Inc. Common Stock|N|ONTO|N|100|N|ONTO
 OOMA|Ooma, Inc. Common Stock|N|OOMA|N|100|N|OOMA
+OPA.U|Magnum Opus Acquisition Limited Units, each consisting of one Class A ordinary share and one-half redeemable warrant|N|OPA.U|N|100|N|OPA=
 OPER|ETF Series Solutions ETF ClearShares Ultra-Short Maturity ETF|P|OPER|Y|100|N|OPER
 OPP|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. Common Stock|N|OPP|N|100|N|OPP
 OPP$A|RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock|N|OPPpA|N|100|N|OPP-A
@@ -4422,6 +4427,7 @@ RJI|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked t
 RJN|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Energy Total Return Structured Product|P|RJN|N|100|N|RJN
 RJZ|AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Metals Total Return Structured Product|P|RJZ|N|100|N|RJZ
 RKT|Rocket Companies, Inc. Class A Common Stock|N|RKT|N|100|N|RKT
+RKTA.U|Rocket Internet Growth Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant|N|RKTA.U|N|100|N|RKTA=
 RL|Ralph Lauren Corporation Common Stock|N|RL|N|100|N|RL
 RLGT|Radiant Logistics, Inc. Common Stock|A|RLGT|N|100|N|RLGT
 RLGY|Realogy Holdings Corp. Common Stock|N|RLGY|N|100|N|RLGY
@@ -4944,6 +4950,7 @@ STPK|Star Peak Energy Transition Corp. Class A Common Stock|N|STPK|N|100|N|STPK
 STPK.U|Star Peak Energy Transition Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant|N|STPK.U|N|100|N|STPK=
 STPK.W|Star Peak Energy Transition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50|N|STPK.WS|N|100|N|STPK+
 STPZ|PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund|P|STPZ|Y|100|N|STPZ
+STRE.U|Supernova Partners Acquisition Company III, Ltd. Units|N|STRE.U|N|100|N|STRE=
 STSB|iShares Factors US Small Blend Style ETF|Z|STSB|Y|100|N|STSB
 STT|State Street Corporation Common Stock|N|STT|N|100|N|STT
 STT$D|State Street Corporation Depositary Shares representing 1/4000th Perpetual Preferred Series D|N|STTpD|N|100|N|STT-D
@@ -5445,6 +5452,7 @@ VGAC|VG Acquisition Corp. Class A Ordinary Shares|N|VGAC|N|100|N|VGAC
 VGAC.U|VG Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redeemable warrant|N|VGAC.U|N|100|N|VGAC=
 VGAC.W|VG Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of $11.50|N|VGAC.WS|N|100|N|VGAC+
 VGI|Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest|N|VGI|N|100|N|VGI
+VGII.U|Virgin Group Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of one redeemable warrant|N|VGII.U|N|100|N|VGII=
 VGK|Vanguard FTSEEuropean ETF|P|VGK|Y|100|N|VGK
 VGM|Invesco Trust for Investment Grade Municipals Common Stock (DE)|N|VGM|N|100|N|VGM
 VGR|Vector Group Ltd. Common Stock|N|VGR|N|100|N|VGR
@@ -5798,4 +5806,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0322202115:41||||||
+File Creation Time: 0323202115:41||||||
