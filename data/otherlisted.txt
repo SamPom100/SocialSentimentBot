@@ -68,7 +68,9 @@ ADFI|Anfield Dynamic Fixed Income ETF|Z|ADFI|Y|100|N|ADFI
 ADM|Archer-Daniels-Midland Company Common Stock|N|ADM|N|100|N|ADM
 ADME|Aptus Drawdown Managed Equity ETF|Z|ADME|Y|100|N|ADME
 ADNT|Adient plc Ordinary Shares |N|ADNT|N|100|N|ADNT
+ADRA|Adara Acquisition Corp. Class A Common Stock|A|ADRA|N|100|N|ADRA
 ADRA.U|Adara Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of one redeemable warrant|A|ADRA.U|N|100|N|ADRA=
+ADRA.W|Adara Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|A|ADRA.WS|N|100|N|ADRA+
 ADS|Alliance Data Systems Corporation Common Stock|N|ADS|N|100|N|ADS
 ADT|ADT Inc. Common Stock|N|ADT|N|100|N|ADT
 ADX|Adams Diversified Equity Fund Inc.|N|ADX|N|100|N|ADX
@@ -1368,6 +1370,7 @@ DNZ|D and Z Media Acquisition Corp. Class A Common Stock|N|DNZ|N|100|N|DNZ
 DNZ.U|D and Z Media Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-third of one Warrant|N|DNZ.U|N|100|N|DNZ=
 DNZ.W|D and Z Media Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exercise price of $11.50|N|DNZ.WS|N|100|N|DNZ+
 DOC|Physicians Realty Trust Common Shares of Beneficial Interest|N|DOC|N|100|N|DOC
+DOCN|DigitalOcean Holdings, Inc. Common Stock|N|DOCN|N|100|N|DOCN
 DOCT|FT Cboe Vest U.S. Equity Deep Buffer ETF - October|Z|DOCT|Y|100|N|DOCT
 DOG|ProShares Short Dow30|P|DOG|Y|100|N|DOG
 DOL|WisdomTree International LargeCap Dividend Fund|P|DOL|Y|100|N|DOL
@@ -1389,6 +1392,7 @@ DRI|Darden Restaurants, Inc. Common Stock|N|DRI|N|100|N|DRI
 DRIP|Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares|P|DRIP|Y|100|N|DRIP
 DRN|Direxion Daily Real Estate Bull 3x Shares|P|DRN|Y|100|N|DRN
 DRQ|Dril-Quip, Inc. Common Stock|N|DRQ|N|100|N|DRQ
+DRS|Leonardo DRS, Inc. Common Stock|N|DRS|N|100|N|DRS
 DRSK|Aptus Defined Risk ETF |Z|DRSK|Y|100|N|DRSK
 DRUA|Dominion Energy, Inc. 2016 Series A 5.25% Enhanced Junior Subordinated Notes due 2076|N|DRUA|N|100|N|DRUA
 DRV|Drexion Daily Real Estate Bear 3x Shares|P|DRV|Y|100|N|DRV
@@ -3291,6 +3295,7 @@ MACC.U|Mission Advancement Corp. Units, each consisting of one share of Class A 
 MAG|MAG Silver Corporation Ordinary Shares|A|MAG|N|100|N|MAG
 MAGA|Point Bridge GOP Stock Tracker ETF|Z|MAGA|Y|100|N|MAGA
 MAIN|Main Street Capital Corporation Common Stock|N|MAIN|N|100|N|MAIN
+MAMB|Monarch Ambassador Income ETF|Z|MAMB|Y|100|N|MAMB
 MAN|ManpowerGroup Common Stock|N|MAN|N|100|N|MAN
 MANU|Manchester United Ltd. Class A Ordinary Shares|N|MANU|N|100|N|MANU
 MARB|First Trust Merger Arbitrage ETF|P|MARB|Y|100|N|MARB
@@ -3302,6 +3307,7 @@ MAX|MediaAlpha, Inc. Class A Common Stock|N|MAX|N|100|N|MAX
 MAXR|Maxar Technologies Inc.|N|MAXR|N|100|N|MAXR
 MBAC.U|M3-Brigade Acquisition II Corp. Units, each consisting of one share of Class A common stock, and one-third of one redeemable warrant|N|MBAC.U|N|100|N|MBAC=
 MBBB|VanEck Vectors Moody's Analytics BBB Corporate Bond ETF|Z|MBBB|Y|100|N|MBBB
+MBCC|Monarch Blue Chips Core ETF|Z|MBCC|Y|100|N|MBCC
 MBI|MBIA Inc. Common Stock|N|MBI|N|100|N|MBI
 MBND|SPDR Nuveen Municipal Bond ETF|Z|MBND|Y|100|N|MBND
 MBSD|FlexShares Trust FlexShares Disciplined Duration MBS Index Fund|P|MBSD|Y|100|N|MBSD
@@ -3468,6 +3474,7 @@ MPC|Marathon Petroleum Corporation Common Stock|N|MPC|N|100|N|MPC
 MPLN|MultiPlan Corporation Class A Common Stock|N|MPLN|N|100|N|MPLN
 MPLN.W|MultiPlan Corporation Warrants|N|MPLN.WS|N|100|N|MPLN+
 MPLX|MPLX LP Common Units Representing Limited Partner Interests|N|MPLX|N|100|N|MPLX
+MPRO|Northern Lights Fund Trust IV Monarch ProCap ETF|Z|MPRO|Y|100|N|MPRO
 MPV|Barings Participation Investors Common Stock|N|MPV|N|100|N|MPV
 MPW|Medical Properties Trust, Inc. common stock|N|MPW|N|100|N|MPW
 MPX|Marine Products Corporation Common Stock|N|MPX|N|100|N|MPX
@@ -3632,6 +3639,7 @@ NGA.W|Northern Genesis Acquisition Corp. Redeemable Warrants, each warrant exerc
 NGAB|Northern Genesis Acquisition Corp. II Common Stock|N|NGAB|N|100|N|NGAB
 NGAB.U|Northern Genesis Acquisition Corp. II Units, each consisting of one share of common stock and one-third of one redeemable warrant|N|NGAB.U|N|100|N|NGAB=
 NGAB.W|Northern Genesis Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for shares of common stock at an exercise price of $11.50 per share|N|NGAB.WS|N|100|N|NGAB+
+NGC.U|Northern Genesis Acquisition Corp. III Units, each consisting of one share of common stock and one-quarter of one redeemable warrant|N|NGC.U|N|100|N|NGC=
 NGD|New Gold Inc.|A|NGD|N|100|N|NGD
 NGE|Global X MSCI Nigeria ETF|P|NGE|Y|100|N|NGE
 NGG|National Grid Transco, PLC National Grid PLC (NEW) American Depositary Shares|N|NGG|N|100|N|NGG
@@ -4152,6 +4160,7 @@ PRIF$C|Priority Income Fund, Inc. 6.625% Series C Term Preferred Stock due 2024,
 PRIF$D|Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029|N|PRIFpD|N|100|N|PRIF-D
 PRIF$E|Priority Income Fund, Inc. 6.375% Series E Preferred Stock Due 2024|N|PRIFpE|N|100|N|PRIF-E
 PRIF$F|Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027|N|PRIFpF|N|100|N|PRIF-F
+PRIF$G|Priority Income Fund, Inc. 6.25% Series G Preferred Stock Due 2026|N|PRIFpG|N|100|N|PRIF-G
 PRK|Park National Corporation Common Stock|A|PRK|N|100|N|PRK
 PRLB|Proto Labs, Inc. Common stock|N|PRLB|N|100|N|PRLB
 PRMW|Primo Water Corporation Common Stock|N|PRMW|N|100|N|PRMW
@@ -4489,7 +4498,6 @@ RS|Reliance Steel & Aluminum Co. Common Stock (DE)|N|RS|N|100|N|RS
 RSF|RiverNorth Specialty Finance Corporation|N|RSF|N|100|N|RSF
 RSG|Republic Services, Inc. Common Stock|N|RSG|N|100|N|RSG
 RSI|Rush Street Interactive, Inc. Class A Common Stock|N|RSI|N|100|N|RSI
-RSI.W|Rush Street Interactive, Inc. Warrants|N|RSI.WS|N|100|N|RSI+
 RSP|Invesco S&P 500 Equal Weight ETF|P|RSP|Y|100|N|RSP
 RSX|VanEck Vectors Russia ETF|Z|RSX|Y|100|N|RSX
 RSXJ|VanEck Vectors Russia Small-Cap ETF|Z|RSXJ|Y|100|N|RSXJ
@@ -5317,6 +5325,7 @@ UMDD|UltraPro MidCap400|P|UMDD|Y|100|N|UMDD
 UMH|UMH Properties, Inc. Common Stock|N|UMH|N|100|N|UMH
 UMH$C|UMH Properties, Inc. 6.75% Series C Cumulative Redeemable Preferred Stock,  Liquidation Preference $25 per share|N|UMHpC|N|100|N|UMH-C
 UMH$D|UMH Properties, Inc. 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25 per share|N|UMHpD|N|100|N|UMH-D
+UMI|USCF Midstream Energy Income Fund ETF|P|UMI|Y|100|N|UMI
 UNF|Unifirst Corporation Common Stock|N|UNF|N|100|N|UNF
 UNFI|United Natural Foods, Inc. Common Stock|N|UNFI|N|100|N|UNFI
 UNG|United States Natural Gas Fund LP|P|UNG|Y|100|N|UNG
@@ -5806,4 +5815,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0323202115:41||||||
+File Creation Time: 0324202115:41||||||
