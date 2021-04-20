@@ -474,8 +474,8 @@ BDSX|Biodesix, Inc. - Common Stock|G|N|N|100|N|N
 BDTX|Black Diamond Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 BEAM|Beam Therapeutics Inc. - Common Stock|Q|N|N|100|N|N
 BECN|Beacon Roofing Supply, Inc. - Common Stock|Q|N|N|100|N|N
-BEEM|Beam Global - Common Stock|S|N|D|100|N|N
-BEEMW|Beam Global - Warrant|S|N|D|100|N|N
+BEEM|Beam Global - Common Stock|S|N|N|100|N|N
+BEEMW|Beam Global - Warrant|S|N|N|100|N|N
 BELFA|Bel Fuse Inc. - Class A Common Stock|Q|N|N|100|N|N
 BELFB|Bel Fuse Inc. - Class B Common Stock|Q|N|N|100|N|N
 BENE|Benessere Capital Acquisition Corp. - Class A Common Stock|S|N|N|100|N|N
@@ -2091,6 +2091,7 @@ IEI|iShares 3-7 Year Treasury Bond ETF|G|N|N|100|Y|N
 IEP|Icahn Enterprises L.P. - Depositary units|Q|N|N|100|N|N
 IESC|IES Holdings, Inc. - Common Stock|G|N|N|100|N|N
 IEUS|iShares MSCI Europe Small-Cap ETF|G|N|N|100|Y|N
+IFBD|Infobird Co., Ltd - Ordinary Shares|S|N|N|100|N|N
 IFGL|iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund|G|N|N|100|Y|N
 IFMK|iFresh Inc. - Common Stock|S|N|D|100|N|N
 IFRX|InflaRx N.V. - Common Stock|Q|N|N|100|N|N
@@ -2941,7 +2942,7 @@ NXGN|NextGen Healthcare, Inc. - Common Stock|Q|N|N|100|N|N
 NXPI|NXP Semiconductors N.V. - Common Stock|Q|N|N|100|N|N
 NXST|Nexstar Media Group, Inc. - Class A Common Stock|Q|N|N|100|N|N
 NXTC|NextCure, Inc. - Common Stock|Q|N|N|100|N|N
-NXTD|NXT-ID Inc. - Common Stock|S|N|N|100|N|N
+NXTD|NXT-ID Inc. - Common Stock|S|N|D|100|N|N
 NXTG|First Trust Indxx NextG ETF|G|N|N|100|Y|N
 NYMT|New York Mortgage Trust, Inc. - Common Stock|Q|N|N|100|N|N
 NYMTM|New York Mortgage Trust, Inc. - 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock|Q|N|N|100|N|N
@@ -4070,6 +4071,8 @@ TRIN|Trinity Capital Inc. - Common Stock|Q|N|N|100|N|N
 TRIP|TripAdvisor, Inc. - Common Stock|Q|N|N|100|N|N
 TRIT|Triterras, Inc. - Class A Ordinary Shares|G|N|N|100|N|N
 TRITW|Triterras, Inc. - Warrant|G|N|N|100|N|N
+TRKA|Troika Media Group, Inc. - Common Stock|S|N|N|100|N|N
+TRKAW|Troika Media Group, Inc. - Warrant|S|N|N|100|N|N
 TRMB|Trimble Inc. - Common Stock|Q|N|N|100|N|N
 TRMD|TORM plc - Class A Common Stock|Q|N|N|100|N|N
 TRMK|Trustmark Corporation - Common Stock|Q|N|N|100|N|N
@@ -4534,4 +4537,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0419202115:41|||||||
+File Creation Time: 0420202115:41|||||||
