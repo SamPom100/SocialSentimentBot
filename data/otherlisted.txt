@@ -549,6 +549,7 @@ BDX|Becton, Dickinson and Company Common Stock|N|BDX|N|100|N|BDX
 BDXB|Becton, Dickinson and Company Depositary Shares, each Representing a 1/20th Interest in a Share of 6.00% Mandatory Convertible Preferred Stock, Series B|N|BDXB|N|100|N|BDXB
 BE|Bloom Energy Corporation Class A Common Stock|N|BE|N|100|N|BE
 BEDU|Bright Scholar Education Holdings Limited American Depositary Shares, each  representing one Class A Ordinary Share|N|BEDU|N|100|N|BEDU
+BEDZ|AdvisorShares Hotel ETF|P|BEDZ|Y|100|N|BEDZ
 BEKE|KE Holdings Inc American Depositary Shares (each representing three Class A Ordinary Shares)|N|BEKE|N|100|N|BEKE
 BEN|Franklin Resources, Inc. Common Stock|N|BEN|N|100|N|BEN
 BEP|Brookfield Renewable Partners L.P. |N|BEP|N|100|N|BEP
@@ -1385,9 +1386,6 @@ DMRM|DeltaShares S&P 400 Managed Risk ETF|P|DMRM|Y|100|N|DMRM
 DMRS|DeltaShares S&P 600 Managed Risk ETF|P|DMRS|Y|100|N|DMRS
 DMS|Digital Media Solutions, Inc. Class A Ordinary Shares|N|DMS|N|100|N|DMS
 DMS.W|Digital Media Solutions, Inc. Warrants, |N|DMS.WS|N|100|N|DMS+
-DMYD|dMY Technology Group, Inc. II Class A Common Stock|N|DMYD|N|100|N|DMYD
-DMYD.U|dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-third of one redeemable warrant|N|DMYD.U|N|100|N|DMYD=
-DMYD.W|dMY Technology Group, Inc. II Redeemable Warrants|N|DMYD.WS|N|100|N|DMYD+
 DMYI|dMY Technology Group, Inc. III Class A Common Stock|N|DMYI|N|100|N|DMYI
 DMYI.U|dMY Technology Group, Inc. III Units, each consisting of one share of Class A common stock and one-fourth of one redeemable warrant|N|DMYI.U|N|100|N|DMYI=
 DMYI.W|dMY Technology Group, Inc. III Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share|N|DMYI.WS|N|100|N|DMYI+
@@ -1471,6 +1469,7 @@ DURA|VanEck Vectors Morningstar Durable Dividend ETF|Z|DURA|Y|100|N|DURA
 DUSA|Davis Fundamental ETF Trust Davis Select U.S. Equity ETF|Z|DUSA|Y|100|N|DUSA
 DUSL|Direxion Daily Industrials Bull 3X Shares|P|DUSL|Y|100|N|DUSL
 DUST|Direxion Daily Gold Miners Index Bear 2X Shares|P|DUST|Y|100|N|DUST
+DV|DoubleVerify Holdings, Inc. Common Stock|N|DV|N|100|N|DV
 DVA|DaVita Inc. Common Stock|N|DVA|N|100|N|DVA
 DVD|Dover Motorsports, Inc. Common Stock|N|DVD|N|100|N|DVD
 DVN|Devon Energy Corporation Common Stock|N|DVN|N|100|N|DVN
@@ -1508,6 +1507,7 @@ EAPR|Innovator MSCI Emerging Markets Power Buffer ETF April|P|EAPR|Y|100|N|EAPR
 EARN|Ellington Residential Mortgage REIT Common Shares of Beneficial Interest|N|EARN|N|100|N|EARN
 EASG|Xtrackers MSCI EAFE ESG Leaders Equity ETF|P|EASG|Y|100|N|EASG
 EAT|Brinker International, Inc. Common Stock|N|EAT|N|100|N|EAT
+EATZ|AdvisorShares Restaurant ETF|P|EATZ|Y|100|N|EATZ
 EB|Eventbrite, Inc. Class A Common Stock|N|EB|N|100|N|EB
 EBF|Ennis, Inc. Common Stock|N|EBF|N|100|N|EBF
 EBLU|Ecofin Global Water ESG Fund|P|EBLU|Y|100|N|EBLU
@@ -2240,6 +2240,8 @@ GEF|Greif Inc. Class A Common Stock|N|GEF|N|100|N|GEF
 GEF.B|Greif, Inc. Corporation Class B Common Stock|N|GEF.B|N|100|N|GEF.B
 GEL|Genesis Energy, L.P. Common Units|N|GEL|N|100|N|GEL
 GEM|Goldman Sachs ActiveBeta Emerging Markets Equity ETF|P|GEM|Y|100|N|GEM
+GENI|Genius Sports Limited Ordinary Shares|N|GENI|N|100|N|GENI
+GENI.W|Genius Sports Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share each at an exercise price of $11.50 per share|N|GENI.WS|N|100|N|GENI+
 GEO|Geo Group Inc (The) REIT|N|GEO|N|100|N|GEO
 GER|Goldman Sachs MLP Energy Renaissance Fund|N|GER|N|100|N|GER
 GERM|ETFMG Treatments Testing and Advancements ETF|P|GERM|Y|100|N|GERM
@@ -3156,6 +3158,7 @@ KKR|KKR & Co. Inc. Common Stock|N|KKR|N|100|N|KKR
 KKR$A|KKR & Co. Inc. 6.75% Series A Preferred Stock|N|KKRpA|N|100|N|KKR-A
 KKR$B|KKR & Co. Inc. 6.50% Series B Preferred Stock|N|KKRpB|N|100|N|KKR-B
 KKR$C|KKR & Co. Inc. 6.00% Series C Mandatory Convertible Preferred Stock|N|KKRpC|N|100|N|KKR-C
+KKRS|KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061|N|KKRS|N|100|N|KKRS
 KL|Kirkland Lake Gold Ltd. Common Shares|N|KL|N|100|N|KL
 KLCD|KFA Large Cap Quality Dividend Index ETF|P|KLCD|Y|100|N|KLCD
 KLDW|Knowledge Leaders Developed World ETF|P|KLDW|Y|100|N|KLDW
@@ -3995,6 +3998,7 @@ PANW|Palo Alto Networks, Inc. Common Stock|N|PANW|N|100|N|PANW
 PAPR|Innovator S&P 500 Power Buffer ETF - April|Z|PAPR|Y|100|N|PAPR
 PAR|PAR Technology Corporation Common Stock|N|PAR|N|100|N|PAR
 PARR|Par Pacific Holdings, Inc.  Common Stock|N|PARR|N|100|N|PARR
+PATH|UiPath, Inc. Class A Common Stock|N|PATH|N|100|N|PATH
 PAUG|Innovator S&P 500 Power Buffer ETF - August|Z|PAUG|Y|100|N|PAUG
 PAVE|Global X Funds Global X U.S. Infrastructure Development ETF|Z|PAVE|Y|100|N|PAVE
 PAWZ|ProShares Pet Care ETF|Z|PAWZ|Y|100|N|PAWZ
@@ -5902,4 +5906,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0420202115:41||||||
+File Creation Time: 0421202115:41||||||

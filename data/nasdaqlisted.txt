@@ -730,7 +730,6 @@ CBIO|Catalyst Biosciences, Inc.  - Common Stock|S|N|N|100|N|N
 CBLI|Cleveland BioLabs, Inc. - Common Stock|S|N|N|100|N|N
 CBMB|CBM Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 CBNK|Capital Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
-CBPO|China Biologic Products Holdings, Inc. - Common Stock|Q|N|N|100|N|N
 CBRL|Cracker Barrel Old Country Store, Inc. - Common Stock|Q|N|N|100|N|N
 CBSH|Commerce Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 CBTX|CBTX, Inc. - Common Stock|Q|N|N|100|N|N
@@ -1279,6 +1278,7 @@ EFSC|Enterprise Financial Services Corporation - Common Stock|Q|N|N|100|N|N
 EGAN|eGain Corporation - Common Stock|S|N|N|100|N|N
 EGBN|Eagle Bancorp, Inc. - Common Stock|S|N|N|100|N|N
 EGLE|Eagle Bulk Shipping Inc. - Common Stock|Q|N|N|100|N|N
+EGLX|Enthusiast Gaming Holdings Inc. - Common Stock|Q|N|N|100|N|N
 EGOV|NIC Inc. - Common Stock|Q|N|N|100|N|N
 EGRX|Eagle Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 EH|EHang Holdings Limited - ADS|G|N|N|100|N|N
@@ -2192,7 +2192,6 @@ IPAR|Inter Parfums, Inc. - Common Stock|Q|N|N|100|N|N
 IPDN|Professional Diversity Network, Inc. - Common Stock|S|N|N|100|N|N
 IPGP|IPG Photonics Corporation - Common Stock|Q|N|N|100|N|N
 IPHA|Innate Pharma S.A. - American Depositary Shares|Q|N|N|100|N|N
-IPHI|Inphi Corporation - Common Stock|Q|N|N|100|N|N
 IPKW|Invesco International BuyBack Achievers ETF|G|N|N|100|Y|N
 IPLDP|Interstate Power and Light Company - Interstate Power & Light Company Perp Preferred 5.10% Series D|Q|N|N|100|N|N
 IPVIU|InterPrivate IV InfraTech Partners Inc. - Units|S|N|N|100|N|N
@@ -2749,7 +2748,7 @@ MRTN|Marten Transport, Ltd. - Common Stock|Q|N|N|100|N|N
 MRTX|Mirati Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
 MRUS|Merus N.V. - Common Shares|G|N|N|100|N|N
 MRVI|Maravai LifeSciences Holdings, Inc. - Class A common stock|Q|N|N|100|N|N
-MRVL|Marvell Technology Group Ltd. - Common Stock|Q|N|N|100|N|N
+MRVL|Marvell Technology, Inc. - Common Stock|Q|N|N|100|N|N
 MSAC|Medicus Sciences Acquisition Corp. - Class A Ordinary Share|S|N|N|100|N|N
 MSACW|Medicus Sciences Acquisition Corp. - Warrant|S|N|N|100|N|N
 MSBI|Midland States Bancorp, Inc. - Common Stock|Q|N|N|100|N|N
@@ -3555,7 +3554,6 @@ RTH|VanEck Vectors Retail ETF|G|N|N|100|Y|N
 RTLR|Rattler Midstream LP - Common Units Representing Limited Partnership Interests|Q|N|N|100|N|N
 RTPYU|Reinvent Technology Partners Y - Unit|S|N|N|100|N|N
 RUBY|Rubius Therapeutics, Inc. - Common Stock|Q|N|N|100|N|N
-RUHN|Ruhnn Holding Limited - American Depositary Shares|Q|N|N|100|N|N
 RUN|Sunrun Inc. - Common Stock|Q|N|N|100|N|N
 RUSHA|Rush Enterprises, Inc. - Class A Common Stock|Q|N|N|100|N|N
 RUSHB|Rush Enterprises, Inc. - Class B Common Stock|Q|N|N|100|N|N
@@ -3712,6 +3710,7 @@ SIVB|SVB Financial Group - Common Stock|Q|N|N|100|N|N
 SIVBP|SVB Financial Group - Depositary Shs each representing a 1/40th interest in a share of 5.25% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A|Q|N|N|100|N|N
 SJ|Scienjoy Holding Corporation - Ordinary Shares|S|N|N|100|N|N
 SKOR|FlexShares Credit-Scored US Corporate Bond Index Fund|G|N|N|100|Y|N
+SKYT|SkyWater Technology, Inc. - Common Stock|S|N|N|100|N|N
 SKYU|ProShares Ultra Nasdaq Cloud Computing ETF|G|N|N|100|Y|N
 SKYW|SkyWest, Inc. - Common Stock|Q|N|N|100|N|N
 SKYY|First Trust Cloud Computing ETF|G|N|N|100|Y|N
@@ -4537,4 +4536,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-File Creation Time: 0420202115:41|||||||
+File Creation Time: 0421202115:41|||||||
