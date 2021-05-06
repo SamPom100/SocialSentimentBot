@@ -776,7 +776,6 @@ BWXT|BWX Technologies, Inc. Common Stock|N|BWXT|N|100|N|BWXT
 BWZ|SPDR Bloomberg Barclays Short Term International Treasury Bond ETF|P|BWZ|Y|100|N|BWZ
 BX|The Blackstone Group Inc. Common Stock|N|BX|N|100|N|BX
 BXC|Bluelinx Holdings Inc. Common Stock|N|BXC|N|100|N|BXC
-BXG|Bluegreen Vacations Corporation Common Stock|N|BXG|N|100|N|BXG
 BXMT|Blackstone Mortgage Trust, Inc. Common Stock|N|BXMT|N|100|N|BXMT
 BXMX|Nuveen S&P 500 Buy-Write Income Fund Common Shares of Beneficial Interest|N|BXMX|N|100|N|BXMX
 BXP|Boston Properties, Inc. Common Stock|N|BXP|N|100|N|BXP
@@ -1069,6 +1068,7 @@ COF$H|Capital One Financial Corporation Depositary Shares, Each Representing 1/4
 COF$I|Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series I of the Issuer|N|COFpI|N|100|N|COF-I
 COF$J|Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non- Cumulative Perpetual Preferred Stock, Series J|N|COFpJ|N|100|N|COF-J
 COF$K|Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series K|N|COFpK|N|100|N|COF-K
+COF$L|Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series L|N|COFpL|N|100|N|COF-L
 COG|Cabot Oil & Gas Corporation Common Stock|N|COG|N|100|N|COG
 COHN|Cohen & Company Inc.|A|COHN|N|100|N|COHN
 COLD|Americold Realty Trust Common Shares|N|COLD|N|100|N|COLD
@@ -2175,7 +2175,9 @@ FUT|ProShares Managed Futures Strategy ETF|Z|FUT|Y|100|N|FUT
 FUTY|Fidelity MSCI Utilities Index ETF|P|FUTY|Y|100|N|FUTY
 FVAL|Fidelity Value Factor ETF|P|FVAL|Y|100|N|FVAL
 FVD|First Trust VL Dividend|P|FVD|Y|100|N|FVD
+FVIV|Fortress Value Acquisition Corp. IV Class A Common Stock|N|FVIV|N|100|N|FVIV
 FVIV.U|Fortress Value Acquisition Corp. IV Unit|N|FVIV.U|N|100|N|FVIV=
+FVIV.W|Fortress Value Acquisition Corp. IV Warrants, each whole warrant exercisable for one share of Class A common stock at an exercise price of $11.50 per share|N|FVIV.WS|N|100|N|FVIV+
 FVRR|Fiverr International Ltd. Ordinary Shares, no par value|N|FVRR|N|100|N|FVRR
 FVT|Fortress Value Acquisition Corp. III Class A Common Stock|N|FVT|N|100|N|FVT
 FVT.U|Fortress Value Acquisition Corp. III Units, each consisting of one share of Class A common stock and one-fifth of one Warrant|N|FVT.U|N|100|N|FVT=
@@ -2199,7 +2201,9 @@ FXU|First Trust Utilities AlphaDEX Fund|P|FXU|Y|100|N|FXU
 FXY|Invesco CurrencyShares Japanese Yen Trust|P|FXY|Y|100|N|FXY
 FXZ|First Trust Materials AlphaDEX Fund|P|FXZ|Y|100|N|FXZ
 FYLD|Cambria Foreign Shareholder Yield ETF|Z|FYLD|Y|100|N|FYLD
+FZT|FAST Acquisition Corp. II Class A Common Stock|N|FZT|N|100|N|FZT
 FZT.U|FAST Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-quarter of one redeemable warrant|N|FZT.U|N|100|N|FZT=
+FZT.W|FAST Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one share of Class A common stock, each at an exercise price of $11.50 per share|N|FZT.WS|N|100|N|FZT+
 G|Genpact Limited Common Stock|N|G|N|100|N|G
 GAA|Cambria Global Asset Allocation ETF|Z|GAA|Y|100|N|GAA
 GAB|Gabelli Equity Trust, Inc. (The) Common Stock|N|GAB|N|100|N|GAB
@@ -2383,6 +2387,7 @@ GOLD|Barrick Gold Corporation Common Stock (BC)|N|GOLD|N|100|N|GOLD
 GOLF|Acushnet Holdings Corp. Common Stock|N|GOLF|N|100|N|GOLF
 GOOS|Canada Goose Holdings Inc. Subordinate Voting Shares|N|GOOS|N|100|N|GOOS
 GORO|Gold Resource Corporation Common Stock|A|GORO|N|100|N|GORO
+GOTU|GSX Techedu Inc. American Depositary Shares|N|GOTU|N|100|N|GOTU
 GOVT|iShares U.S. Treasury Bond ETF|Z|GOVT|Y|100|N|GOVT
 GOVZ|iShares 25  Year Treasury STRIPS Bond ETF|Z|GOVZ|Y|100|N|GOVZ
 GPC|Genuine Parts Company Common Stock|N|GPC|N|100|N|GPC
@@ -2445,7 +2450,6 @@ GSSC|GS ActiveBeta U.S. Small Cap Equity ETF|P|GSSC|Y|100|N|GSSC
 GSST|Goldman Sachs Access Ultra Short Bond ETF|Z|GSST|Y|100|N|GSST
 GSUS|Goldman Sachs MarketBeta U.S. Equity ETF|Z|GSUS|Y|100|N|GSUS
 GSV|Gold Standard Ventures Corporation Common Stock (Canada)|A|GSV|N|100|N|GSV
-GSX|GSX Techedu Inc. American Depositary Shares, three of which representing two Class A Ordinary Shares|N|GSX|N|100|N|GSX
 GSY|Invesco Ultra Short Duration ETF|P|GSY|Y|100|N|GSY
 GTE|Gran Tierra Energy Inc. Common Stock|A|GTE|N|100|N|GTE
 GTES|Gates Industrial Corporation plc Ordinary Shares|N|GTES|N|100|N|GTES
@@ -2651,6 +2655,7 @@ HYGH|iShares Interest Rate Hedged High Yield Bond ETF|P|HYGH|Y|100|N|HYGH
 HYGV|FlexShares High Yield Value-Scored Bond Index Fund|P|HYGV|Y|100|N|HYGV
 HYHG|ProShares High Yield Interest Rate Hedged|Z|HYHG|Y|100|N|HYHG
 HYI|Western Asset High Yield Defined Opportunity Fund Inc. Common Stock|N|HYI|N|100|N|HYI
+HYIN|WisdomTree Alternative Income Fund|Z|HYIN|Y|100|N|HYIN
 HYLB|Xtrackers USD High Yield Corporate Bond ETF|P|HYLB|Y|100|N|HYLB
 HYLD|High Yield ETF|P|HYLD|Y|100|N|HYLD
 HYLN|Hyliion Holdings Corp. Class A Common Stock|N|HYLN|N|100|N|HYLN
@@ -4504,6 +4509,7 @@ RF|Regions Financial Corporation Common Stock|N|RF|N|100|N|RF
 RF$A|Regions Financial Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series A|N|RFpA|N|100|N|RF-A
 RF$B|Regions Financial Corporation Depositary Shares Representing 1/40th Perpetual Preferred Series B|N|RFpB|N|100|N|RF-B
 RF$C|Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a  Share of 5.700% Fixed-to-Floating Rate Non-Cumulative  Perpetual Preferred Stock, Series C|N|RFpC|N|100|N|RF-C
+RF$E|Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.45% Non-Cumulative Perpetual Preferred Stock, Series E|N|RFpE|N|100|N|RF-E
 RFCI|RiverFront Dynamic Core Income ETF|P|RFCI|Y|100|N|RFCI
 RFDA|RiverFront Dynamic US Dividend Advantage ETF|P|RFDA|Y|100|N|RFDA
 RFFC|RiverFront Dynamic US Flex-Cap ETF|P|RFFC|Y|100|N|RFFC
@@ -5961,4 +5967,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0505202115:40||||||
+File Creation Time: 0506202115:41||||||
