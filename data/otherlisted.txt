@@ -627,6 +627,7 @@ BIT|BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest|N|B
 BITE|Bite Acquisition Corp. Common Stock|N|BITE|N|100|N|BITE
 BITE.U|Bite Acquisition Corp. Units, each consisting of one share of common stock and one-half of one redeemable warrant|N|BITE.U|N|100|N|BITE=
 BITE.W|Bite Acquisition Corp. Warrants, each whole warrant exercisable for one share of common stock at an exercise price of $11.50|N|BITE.WS|N|100|N|BITE+
+BITQ|Bitwise Crypto Industry Innovators ETF|P|BITQ|Y|100|N|BITQ
 BIV|Vanguard Intermediate-Term Bond ETF|P|BIV|Y|100|N|BIV
 BIZD|VanEck Vectors BDC Income ETF|P|BIZD|Y|100|N|BIZD
 BJ|BJ's Wholesale Club Holdings, Inc. Common Stock|N|BJ|N|100|N|BJ
@@ -4896,6 +4897,7 @@ SMN|ProShares UltraShort Basic Materials|P|SMN|Y|100|N|SMN
 SMOG|VanEck Vectors Low Carbon Energy ETF|P|SMOG|Y|100|N|SMOG
 SMP|Standard Motor Products, Inc. Common Stock|N|SMP|N|100|N|SMP
 SMTS|Sierra Metals Inc. Common Stock|A|SMTS|N|100|N|SMTS
+SMWB|Similarweb Ltd. Ordinary Shares|N|SMWB|N|100|N|SMWB
 SNA|Snap-On Incorporated Common Stock|N|SNA|N|100|N|SNA
 SNAP|Snap Inc. Class A Common Stock|N|SNAP|N|100|N|SNAP
 SNDR|Schneider National, Inc. Common Stock|N|SNDR|N|100|N|SNDR
@@ -5172,11 +5174,9 @@ TCTL|Premise Capital Diversified Tactical ETF|Z|TCTL|Y|100|N|TCTL
 TD|Toronto Dominion Bank (The) Common Stock|N|TD|N|100|N|TD
 TDA|Telephone and Data Systems, Inc. 5.875% Senior Notes due 2061|N|TDA|N|100|N|TDA
 TDC|Teradata Corporation Common Stock|N|TDC|N|100|N|TDC
-TDE|Telephone and Data Systems, Inc. 6.875% Senior Notes due 2059|N|TDE|N|100|N|TDE
 TDF|Templeton Dragon Fund, Inc. Common Stock|N|TDF|N|100|N|TDF
 TDG|Transdigm Group Incorporated Transdigm Group Inc. Common Stock|N|TDG|N|100|N|TDG
 TDI|Telephone and Data Systems, Inc. Sr Nt|N|TDI|N|100|N|TDI
-TDJ|Telephone and Data Systems, Inc. 7% Senior Notes due 2060|N|TDJ|N|100|N|TDJ
 TDOC|Teladoc Health, Inc. Common Stock|N|TDOC|N|100|N|TDOC
 TDS|Telephone and Data Systems, Inc. Common Shares|N|TDS|N|100|N|TDS
 TDS$U|Telephone and Data Systems, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.625% Series UU Cumulative Redeemable Perpetual Preferred Stock|N|TDSpU|N|100|N|TDS-U
@@ -5547,7 +5547,6 @@ UXI|ProShares Ultra Industrials|P|UXI|Y|100|N|UXI
 UYG|ProShares Ultra Financials|P|UYG|Y|100|N|UYG
 UYM|ProShares Ultra Basic Materials|P|UYM|Y|100|N|UYM
 UZA|United States Cellular Corporation 6.95% Senior Notes due 2060|N|UZA|N|100|N|UZA
-UZB|United States Cellular Corporation 7.25% Senior Notes due 2063|N|UZB|N|100|N|UZB
 UZC|United States Cellular Corporation 7.25% Senior Notes due 2064|N|UZC|N|100|N|UZC
 UZD|United States Cellular Corporation 6.250% Senior Notes due 2069|N|UZD|N|100|N|UZD
 UZE|United States Cellular Corporation 5.500% Senior Notes due 2070|N|UZE|N|100|N|UZE
@@ -5980,4 +5979,4 @@ ZUO|Zuora, Inc. Class A Common Stock|N|ZUO|N|100|N|ZUO
 ZVV|NYSE ARCA test stock|P|ZVV|N|100|Y|ZVV
 ZXIET|IEX Test Company Test Symbol Three for IEX|V|ZXIET|N|100|Y|ZXIET
 ZYME|Zymeworks Inc. Common Shares|N|ZYME|N|100|N|ZYME
-File Creation Time: 0511202115:41||||||
+File Creation Time: 0512202115:41||||||
