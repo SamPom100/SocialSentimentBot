@@ -101,7 +101,7 @@ def main():
               'RUN', 'VERY', 'PLAY', 'DD', 'POST', 'ELSE', 'LOVE', 'TELL', 'BEST', 'LIFE',
               'HOPE', 'TWO', 'NICE', 'BIT', 'MAN', 'TRUE', 'FUN', 'LOW', 'TECH', 'CAR', 'STAY',
               'EOD', 'JOB', 'FLAT', 'OLD', 'RTX', 'HOME', 'OW', 'JOE', 'BEAT', 'WOW', 'X', 'ATH',
-              'SAVE', 'EAT', 'HUGE', 'PER', 'LIVE', 'CARE', 'PEAK', 'TURN', 'PLUS', 'HEAR', 'GAIN', 'BRO', 'RH', 'JUST', 'NEED', 'KNOW']
+              'SAVE', 'EAT', 'HUGE', 'PER', 'LIVE', 'CARE', 'PEAK', 'TURN', 'PLUS', 'HEAR', 'GAIN', 'BRO', 'RH', 'JUST', 'NEED', 'KNOW', 'IS', 'YOU',]
 
     main_list = [
         item for item in masterSET if item in list_of_tickers if item not in r_item]
