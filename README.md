@@ -8,4 +8,5 @@ Scans the comment chains for Calls / Puts, and filters them for NYSE and NASDAQ 
 Graphs the most popular of these, alongside a pie chart of daily sentiment.
 
 
-![6-2-2020](https://user-images.githubusercontent.com/28206070/83574829-de314300-a4f3-11ea-9437-56351c3473ac.jpg)
+
+![6-10-2020](https://user-images.githubusercontent.com/28206070/138015062-69ef0ea3-95fc-4e72-bbf6-3f9ed87abb89.jpg)
